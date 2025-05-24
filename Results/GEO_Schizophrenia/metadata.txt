@@ -1,0 +1,203 @@
+geo_accession	status:ch1	age:ch1	gender:ch1
+GSM943243	CONTROL	33	male
+GSM943249	CONTROL	19	male
+GSM943250	CONTROL	53	male
+GSM943251	CONTROL	28	female
+GSM943252	CONTROL	31	female
+GSM943253	CONTROL	22	female
+GSM943254	CONTROL	38	female
+GSM943255	CONTROL	51	female
+GSM943256	CONTROL	34	female
+GSM943259	CONTROL	27	female
+GSM943260	CONTROL	25	male
+GSM943261	CONTROL	22	female
+GSM943262	CONTROL	24	male
+GSM943263	CONTROL	62	female
+GSM943277	CONTROL	33	male
+GSM943282	CONTROL	27	male
+GSM943283	CONTROL	66	male
+GSM943284	CONTROL	57	female
+GSM943285	CONTROL	81	female
+GSM943286	CONTROL	20	male
+GSM943287	CONTROL	23	male
+GSM943288	CONTROL	48	female
+GSM943289	CONTROL	65	male
+GSM943290	CONTROL	50	male
+GSM943291	CONTROL	51	male
+GSM943292	CONTROL	64	male
+GSM943293	CONTROL	24	female
+GSM943294	CONTROL	21	male
+GSM943295	CONTROL	34	female
+GSM943296	CONTROL	22	male
+GSM943297	CONTROL	40	male
+GSM943298	CONTROL	39	male
+GSM943299	CONTROL	25	male
+GSM943300	CONTROL	40	female
+GSM943301	CONTROL	23	female
+GSM943302	CONTROL	21	female
+GSM943303	CONTROL	31	male
+GSM943316	CONTROL	31	male
+GSM943318	CONTROL	23	female
+GSM943319	CONTROL	36	female
+GSM943320	CONTROL	25	female
+GSM943321	CONTROL	23	male
+GSM943322	CONTROL	37	male
+GSM943328	CONTROL	29	female
+GSM943329	CONTROL	36	female
+GSM943330	CONTROL	27	female
+GSM943331	CONTROL	50	female
+GSM943332	CONTROL	21	female
+GSM943336	CONTROL	26	female
+GSM943337	CONTROL	30	female
+GSM943338	CONTROL	23	male
+GSM943339	CONTROL	49	female
+GSM943340	CONTROL	33	female
+GSM943341	CONTROL	43	female
+GSM943342	CONTROL	42	female
+GSM943343	CONTROL	37	male
+GSM943347	CONTROL	45	female
+GSM943348	CONTROL	27	female
+GSM943349	CONTROL	35	male
+GSM943350	CONTROL	46	male
+GSM943352	CONTROL	36	female
+GSM943371	CONTROL	44	female
+GSM943372	CONTROL	21	female
+GSM943373	CONTROL	48	female
+GSM943382	CONTROL	52	female
+GSM943383	CONTROL	60	male
+GSM943384	CONTROL	37	female
+GSM943385	CONTROL	21	female
+GSM943388	CONTROL	37	male
+GSM943389	CONTROL	52	male
+GSM943390	CONTROL	57	male
+GSM943391	CONTROL	50	female
+GSM943392	CONTROL	50	male
+GSM943393	CONTROL	54	male
+GSM943394	CONTROL	54	male
+GSM943395	CONTROL	38	male
+GSM943396	CONTROL	55	male
+GSM943397	CONTROL	59	female
+GSM943398	CONTROL	53	female
+GSM943399	CONTROL	50	female
+GSM943400	CONTROL	53	male
+GSM943403	CONTROL	46	female
+GSM943404	CONTROL	54	female
+GSM943405	CONTROL	63	female
+GSM943406	CONTROL	60	female
+GSM943407	CONTROL	55	male
+GSM943408	CONTROL	36	female
+GSM943409	CONTROL	63	female
+GSM943410	CONTROL	26	male
+GSM943411	CONTROL	49	male
+GSM943412	CONTROL	50	female
+GSM943414	CONTROL	20	male
+GSM943415	CONTROL	18	female
+GSM943430	CONTROL	37	male
+GSM943431	CONTROL	34	female
+GSM943432	CONTROL	34	female
+GSM943244	schizophrenia (SCZ)	18	male
+GSM943245	schizophrenia (SCZ)	24	female
+GSM943246	schizophrenia (SCZ)	25	male
+GSM943247	schizophrenia (SCZ)	49	male
+GSM943248	schizophrenia (SCZ)	35	male
+GSM943257	schizophrenia (SCZ)	29	female
+GSM943258	schizophrenia (SCZ)	32	male
+GSM943264	schizophrenia (SCZ)	27	male
+GSM943265	schizophrenia (SCZ)	40	male
+GSM943266	schizophrenia (SCZ)	39	male
+GSM943267	schizophrenia (SCZ)	23	male
+GSM943268	schizophrenia (SCZ)	30	male
+GSM943269	schizophrenia (SCZ)	47	male
+GSM943270	schizophrenia (SCZ)	37	female
+GSM943271	schizophrenia (SCZ)	47	male
+GSM943272	schizophrenia (SCZ)	56	female
+GSM943273	schizophrenia (SCZ)	60	male
+GSM943274	schizophrenia (SCZ)	55	male
+GSM943275	schizophrenia (SCZ)	47	male
+GSM943276	schizophrenia (SCZ)	29	male
+GSM943278	schizophrenia (SCZ)	39	female
+GSM943279	schizophrenia (SCZ)	27	male
+GSM943280	schizophrenia (SCZ)	35	male
+GSM943281	schizophrenia (SCZ)	33	male
+GSM943304	schizophrenia (SCZ)	38	male
+GSM943305	schizophrenia (SCZ)	48	male
+GSM943306	schizophrenia (SCZ)	32	male
+GSM943307	schizophrenia (SCZ)	19	male
+GSM943308	schizophrenia (SCZ)	24	female
+GSM943309	schizophrenia (SCZ)	42	male
+GSM943310	schizophrenia (SCZ)	43	male
+GSM943311	schizophrenia (SCZ)	27	male
+GSM943312	schizophrenia (SCZ)	26	male
+GSM943313	schizophrenia (SCZ)	54	male
+GSM943314	schizophrenia (SCZ)	56	female
+GSM943315	schizophrenia (SCZ)	43	female
+GSM943317	schizophrenia (SCZ)	41	male
+GSM943323	schizophrenia (SCZ)	41	male
+GSM943324	schizophrenia (SCZ)	56	male
+GSM943325	schizophrenia (SCZ)	43	male
+GSM943326	schizophrenia (SCZ)	48	male
+GSM943327	schizophrenia (SCZ)	31	female
+GSM943333	schizophrenia (SCZ)	34	male
+GSM943334	schizophrenia (SCZ)	29	female
+GSM943335	schizophrenia (SCZ)	28	male
+GSM943344	schizophrenia (SCZ)	43	male
+GSM943345	schizophrenia (SCZ)	50	female
+GSM943346	schizophrenia (SCZ)	50	female
+GSM943351	schizophrenia (SCZ)	45	female
+GSM943353	schizophrenia (SCZ)	18	female
+GSM943354	schizophrenia (SCZ)	26	male
+GSM943355	schizophrenia (SCZ)	50	female
+GSM943356	schizophrenia (SCZ)	45	male
+GSM943357	schizophrenia (SCZ)	43	male
+GSM943358	schizophrenia (SCZ)	37	male
+GSM943359	schizophrenia (SCZ)	31	male
+GSM943360	schizophrenia (SCZ)	31	male
+GSM943361	schizophrenia (SCZ)	52	female
+GSM943362	schizophrenia (SCZ)	37	male
+GSM943363	schizophrenia (SCZ)	40	female
+GSM943364	schizophrenia (SCZ)	33	male
+GSM943365	schizophrenia (SCZ)	41	male
+GSM943366	schizophrenia (SCZ)	42	female
+GSM943367	schizophrenia (SCZ)	41	male
+GSM943368	schizophrenia (SCZ)	41	female
+GSM943369	schizophrenia (SCZ)	20	male
+GSM943370	schizophrenia (SCZ)	27	male
+GSM943374	schizophrenia (SCZ)	41	female
+GSM943375	schizophrenia (SCZ)	58	male
+GSM943376	schizophrenia (SCZ)	36	male
+GSM943377	schizophrenia (SCZ)	25	female
+GSM943378	schizophrenia (SCZ)	58	female
+GSM943379	schizophrenia (SCZ)	40	male
+GSM943380	schizophrenia (SCZ)	41	female
+GSM943381	schizophrenia (SCZ)	48	male
+GSM943386	schizophrenia (SCZ)	52	male
+GSM943387	schizophrenia (SCZ)	41	female
+GSM943401	schizophrenia (SCZ)	32	male
+GSM943402	schizophrenia (SCZ)	26	female
+GSM943413	schizophrenia (SCZ)	27	male
+GSM943416	schizophrenia (SCZ)	25	female
+GSM943417	schizophrenia (SCZ)	53	male
+GSM943418	schizophrenia (SCZ)	57	male
+GSM943419	schizophrenia (SCZ)	41	male
+GSM943420	schizophrenia (SCZ)	41	male
+GSM943421	schizophrenia (SCZ)	63	male
+GSM943422	schizophrenia (SCZ)	36	male
+GSM943423	schizophrenia (SCZ)	42	male
+GSM943424	schizophrenia (SCZ)	45	male
+GSM943425	schizophrenia (SCZ)	35	male
+GSM943426	schizophrenia (SCZ)	51	male
+GSM943427	schizophrenia (SCZ)	34	female
+GSM943428	schizophrenia (SCZ)	38	female
+GSM943429	schizophrenia (SCZ)	50	male
+GSM943433	schizophrenia (SCZ)	58	female
+GSM943434	schizophrenia (SCZ)	39	male
+GSM943435	schizophrenia (SCZ)	24	male
+GSM943436	schizophrenia (SCZ)	58	male
+GSM943437	schizophrenia (SCZ)	59	male
+GSM943438	schizophrenia (SCZ)	42	male
+GSM943439	schizophrenia (SCZ)	38	male
+GSM943440	schizophrenia (SCZ)	38	male
+GSM943441	schizophrenia (SCZ)	42	male
+GSM943442	schizophrenia (SCZ)	41	male
+GSM943443	schizophrenia (SCZ)	39	male
+GSM943444	schizophrenia (SCZ)	53	female

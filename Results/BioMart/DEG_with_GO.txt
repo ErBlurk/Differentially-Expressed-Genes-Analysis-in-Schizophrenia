@@ -1,0 +1,3826 @@
+GeneSymbol	GO_term
+ABCA1	membrane
+ABCA1	ATP binding
+ABCA1	transmembrane transport
+ABCA1	ATP hydrolysis activity
+ABCA1	ABC-type transporter activity
+ABCA1	protein binding
+ABCA1	plasma membrane
+ABCA1	endosome
+ABCA1	Golgi apparatus
+ABCA1	cholesterol metabolic process
+ABCA1	ATPase-coupled intramembrane lipid transporter activity
+ABCA1	lipid transporter activity
+ABCA1	intracellular membrane-bounded organelle
+ABCA1	endoplasmic reticulum membrane
+ABCA1	perinuclear region of cytoplasm
+ABCA1	phosphatidylcholine binding
+ABCA1	ATPase binding
+ABCA1	signaling receptor binding
+ABCA1	ATPase-coupled transmembrane transporter activity
+ABCA1	regulation of Cdc42 protein signal transduction
+ABCA1	small GTPase binding
+ABCA1	response to laminar fluid shear stress
+ABCA1	cholesterol efflux
+ABCA1	export across plasma membrane
+ABCA1	cholesterol homeostasis
+ABCA1	phosphatidylcholine floppase activity
+ABCA1	phosphatidylserine floppase activity
+ABCA1	membrane raft
+ABCA1	cholesterol binding
+ABCA1	adenylate cyclase-activating G protein-coupled receptor signaling pathway
+ABCA1	high-density lipoprotein particle assembly
+ABCA1	reverse cholesterol transport
+ABCA1	phospholipid transporter activity
+ABCA1	high-density lipoprotein particle binding
+ABCA1	protein transmembrane transporter activity
+ABCA1	syntaxin binding
+ABCA1	apolipoprotein binding
+ABCA1	apolipoprotein A-I binding
+ABCA1	apolipoprotein A-I receptor activity
+ABCA1	sphingolipid floppase activity
+ABCA1	cholesterol transfer activity
+ABCA1	floppase activity
+ABCA1	peptide secretion
+ABCA1	phagocytosis, engulfment
+ABCA1	lysosome organization
+ABCA1	G protein-coupled receptor signaling pathway
+ABCA1	response to nutrient
+ABCA1	protein secretion
+ABCA1	response to xenobiotic stimulus
+ABCA1	negative regulation of macrophage derived foam cell differentiation
+ABCA1	positive regulation of cholesterol efflux
+ABCA1	negative regulation of cholesterol storage
+ABCA1	phospholipid transport
+ABCA1	endosomal transport
+ABCA1	signal release
+ABCA1	cholesterol transport
+ABCA1	response to nutrient levels
+ABCA1	intracellular cholesterol transport
+ABCA1	response to vitamin B3
+ABCA1	phospholipid efflux
+ABCA1	apolipoprotein A-I-mediated signaling pathway
+ABCA1	lipoprotein metabolic process
+ABCA1	lipoprotein biosynthetic process
+ABCA1	phospholipid translocation
+ABCA1	establishment of localization in cell
+ABCA1	phospholipid homeostasis
+ABCA1	platelet dense granule organization
+ABCA1	cellular response to lipopolysaccharide
+ABCA1	cellular response to retinoic acid
+ABCA1	cellular response to cytokine stimulus
+ABCA1	cellular response to cholesterol
+ABCA1	cellular response to low-density lipoprotein particle stimulus
+ABCA1	cellular response to xenobiotic stimulus
+ABCA1	protein transmembrane transport
+ABCA1	regulation of high-density lipoprotein particle assembly
+ABCA1	positive regulation of high-density lipoprotein particle assembly
+ABCA1	sphingolipid translocation
+ABCA1	external side of plasma membrane
+ABCA1	cell surface
+ABCA1	basolateral plasma membrane
+ABCA1	endocytic vesicle
+ABCA1	phagocytic vesicle
+ABCA1	intracellular vesicle
+ABCA1	lipid transport
+ABCA1	
+ACRBP	
+ACRBP	protein binding
+ACRBP	nucleus
+ACRBP	extracellular region
+ACRBP	acrosomal vesicle
+ACRBP	acrosomal membrane
+ACRBP	cytoplasmic vesicle
+ACRBP	acrosome assembly
+ACRBP	spermatid development
+ACRBP	fertilization
+ACTN4	
+ACTN4	protein binding
+ACTN4	calcium ion binding
+ACTN4	nucleus
+ACTN4	RNA binding
+ACTN4	cytoplasm
+ACTN4	metal ion binding
+ACTN4	actin binding
+ACTN4	cytoskeleton
+ACTN4	protein transport
+ACTN4	perinuclear region of cytoplasm
+ACTN4	actin cytoskeleton
+ACTN4	stress fiber
+ACTN4	ribonucleoprotein complex
+ACTN4	anchoring junction
+ACTN4	protein homodimerization activity
+ACTN4	plasma membrane
+ACTN4	extracellular region
+ACTN4	extracellular space
+ACTN4	positive regulation of transcription by RNA polymerase II
+ACTN4	protein-containing complex
+ACTN4	focal adhesion
+ACTN4	transmembrane transporter binding
+ACTN4	actin filament binding
+ACTN4	regulation of apoptotic process
+ACTN4	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+ACTN4	extracellular exosome
+ACTN4	nuclear retinoic acid receptor binding
+ACTN4	positive regulation of cell migration
+ACTN4	transcription coactivator activity
+ACTN4	cell junction
+ACTN4	pseudopodium
+ACTN4	actin cytoskeleton organization
+ACTN4	Z disc
+ACTN4	positive regulation of non-canonical NF-kappaB signal transduction
+ACTN4	integrin binding
+ACTN4	cortical actin cytoskeleton
+ACTN4	platelet alpha granule lumen
+ACTN4	negative regulation of substrate adhesion-dependent cell spreading
+ACTN4	tumor necrosis factor-mediated signaling pathway
+ACTN4	cell projection
+ACTN4	chromatin DNA binding
+ACTN4	nuclear receptor binding
+ACTN4	retinoic acid receptor signaling pathway
+ACTN4	nucleoside binding
+ACTN4	vesicle transport along actin filament
+ACTN4	positive regulation of sodium:proton antiporter activity
+ACTN4	peroxisome proliferator activated receptor signaling pathway
+ACTN4	muscle cell development
+ACTN4	postsynaptic actin cytoskeleton
+ACTN4	organelle
+ANKRD12	
+ANKRD12	protein binding
+ANKRD12	nucleus
+ANKRD12	cytosol
+ANKRD12	nucleoplasm
+ANXA1	
+ANXA1	calcium ion binding
+ANXA1	calcium-dependent phospholipid binding
+ANXA1	phospholipase inhibitor activity
+ANXA1	nucleus
+ANXA1	cytoplasm
+ANXA1	extracellular region
+ANXA1	plasma membrane
+ANXA1	membrane
+ANXA1	cytosol
+ANXA1	nucleoplasm
+ANXA1	endosome membrane
+ANXA1	apical plasma membrane
+ANXA1	basolateral plasma membrane
+ANXA1	cilium
+ANXA1	phospholipase A2 inhibitor activity
+ANXA1	phagocytic cup
+ANXA1	lateral plasma membrane
+ANXA1	metal ion binding
+ANXA1	endosome
+ANXA1	protein binding
+ANXA1	signal transduction
+ANXA1	negative regulation of apoptotic process
+ANXA1	innate immune response
+ANXA1	early endosome membrane
+ANXA1	motile cilium
+ANXA1	vesicle
+ANXA1	adaptive immune response
+ANXA1	extracellular space
+ANXA1	regulation of cell shape
+ANXA1	early endosome
+ANXA1	focal adhesion
+ANXA1	inflammatory response
+ANXA1	actin cytoskeleton organization
+ANXA1	cornified envelope
+ANXA1	phagocytosis
+ANXA1	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger
+ANXA1	extracellular exosome
+ANXA1	positive regulation of T cell proliferation
+ANXA1	calcium-dependent protein binding
+ANXA1	collagen-containing extracellular matrix
+ANXA1	cell-cell adhesion
+ANXA1	cell surface
+ANXA1	cadherin binding involved in cell-cell adhesion
+ANXA1	adherens junction
+ANXA1	cell surface receptor signaling pathway
+ANXA1	signaling receptor binding
+ANXA1	positive regulation of cell migration involved in sprouting angiogenesis
+ANXA1	lipid binding
+ANXA1	regulation of inflammatory response
+ANXA1	cellular response to vascular endothelial growth factor stimulus
+ANXA1	keratinocyte differentiation
+ANXA1	positive regulation of interleukin-2 production
+ANXA1	negative regulation of interleukin-8 production
+ANXA1	actin filament
+ANXA1	positive regulation of T-helper 1 cell differentiation
+ANXA1	negative regulation of T-helper 2 cell differentiation
+ANXA1	phosphatidylserine binding
+ANXA1	vesicle membrane
+ANXA1	phospholipid binding
+ANXA1	peptide cross-linking
+ANXA1	monocyte chemotaxis
+ANXA1	neutrophil homeostasis
+ANXA1	regulation of leukocyte migration
+ANXA1	myoblast migration involved in skeletal muscle regeneration
+ANXA1	positive regulation of vesicle fusion
+ANXA1	regulation of interleukin-1 production
+ANXA1	positive regulation of neutrophil apoptotic process
+ANXA1	neutrophil activation
+ANXA1	regulation of cell population proliferation
+ANXA1	negative regulation of exocytosis
+ANXA1	alpha-beta T cell differentiation
+ANXA1	regulation of hormone secretion
+ANXA1	arachidonic acid secretion
+ANXA1	cellular response to glucocorticoid stimulus
+ANXA1	granulocyte chemotaxis
+ANXA1	positive regulation of wound healing
+ANXA1	neutrophil clearance
+ANXA1	positive regulation of G1/S transition of mitotic cell cycle
+ANXA1	sarcolemma
+AP1S2	intracellular protein transport
+AP1S2	vesicle-mediated transport
+AP1S2	membrane coat
+AP1S2	protein transport
+AP1S2	clathrin adaptor activity
+AP1S2	AP-1 adaptor complex
+AP1S2	cytoplasm
+AP1S2	Golgi apparatus
+AP1S2	clathrin-coated pit
+AP1S2	cytoplasmic vesicle membrane
+AP1S2	cytoplasmic vesicle
+AP1S2	protein binding
+AP1S2	intracellular membrane-bounded organelle
+AP1S2	cytosol
+AP1S2	trans-Golgi network membrane
+AP1S2	platelet dense granule organization
+AP1S2	melanosome assembly
+AP1S2	early endosome
+AP1S2	Golgi membrane
+AP1S2	lysosomal membrane
+AP1S2	AP-type membrane coat adaptor complex
+AP1S2	membrane
+AP1S2	endomembrane system
+ARG1	
+ARG1	metal ion binding
+ARG1	arginase activity
+ARG1	arginine metabolic process
+ARG1	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+ARG1	hydrolase activity
+ARG1	urea cycle
+ARG1	nucleus
+ARG1	cytoplasm
+ARG1	innate immune response
+ARG1	adaptive immune response
+ARG1	extracellular region
+ARG1	extracellular space
+ARG1	protein binding
+ARG1	cytosol
+ARG1	specific granule lumen
+ARG1	azurophil granule lumen
+ARG1	negative regulation of T cell proliferation
+ARG1	arginine catabolic process
+ARG1	manganese ion binding
+ARG1	arginine catabolic process to ornithine
+ARG1	negative regulation of type II interferon-mediated signaling pathway
+ARG1	positive regulation of neutrophil mediated killing of fungus
+ARG1	response to nematode
+ARG1	defense response to protozoan
+ARG1	negative regulation of activated T cell proliferation
+ARG1	negative regulation of T-helper 2 cell cytokine production
+ARGLU1	nucleus
+ARGLU1	RNA binding
+ARGLU1	mRNA processing
+ARGLU1	RNA splicing
+ARGLU1	nuclear speck
+ARGLU1	cytosol
+ARGLU1	nucleoplasm
+ARGLU1	mitochondrion
+ARGLU1	protein binding
+ARGLU1	positive regulation of DNA-templated transcription
+ARGLU1	chromosome
+ARGLU1	regulation of alternative mRNA splicing, via spliceosome
+ARGLU1	cadherin binding
+ARGLU1	transcription coactivator activity
+ARGLU1	pre-mRNA binding
+ARGLU1	
+ARHGDIA	protein binding
+ARHGDIA	cytoplasm
+ARHGDIA	Rho GDP-dissociation inhibitor activity
+ARHGDIA	Rho protein signal transduction
+ARHGDIA	cytoskeleton
+ARHGDIA	negative regulation of apoptotic process
+ARHGDIA	GTPase activator activity
+ARHGDIA	membrane
+ARHGDIA	cytosol
+ARHGDIA	extracellular exosome
+ARHGDIA	semaphorin-plexin signaling pathway
+ARHGDIA	regulation of Rho protein signal transduction
+ARHGDIA	
+ARHGDIA	regulation of protein localization
+ARHGDIA	regulation of synaptic vesicle cycle
+ARHGDIA	immunological synapse
+ARHGDIA	nucleus
+ARHGDIA	Schaffer collateral - CA1 synapse
+ASNSD1	asparagine synthase (glutamine-hydrolyzing) activity
+ASNSD1	asparagine biosynthetic process
+ASNSD1	
+ASNSD1	molecular_function
+ASNSD1	biological_process
+ASNSD1	cellular_component
+ASNSD1	muscle organ development
+ASNSD1	skeletal muscle tissue development
+ASNSD1	transdifferentiation
+ASNSD1	skeletal muscle organ development
+ASNSD1	adipose tissue development
+ATP6V1G1	proton-transporting ATPase activity, rotational mechanism
+ATP6V1G1	proton transmembrane transport
+ATP6V1G1	vacuolar proton-transporting V-type ATPase complex
+ATP6V1G1	plasma membrane
+ATP6V1G1	protein binding
+ATP6V1G1	apical plasma membrane
+ATP6V1G1	cytosol
+ATP6V1G1	lysosomal membrane
+ATP6V1G1	intracellular iron ion homeostasis
+ATP6V1G1	ATPase binding
+ATP6V1G1	synaptic vesicle membrane
+ATP6V1G1	extracellular exosome
+ATP6V1G1	ATP hydrolysis activity
+ATP6V1G1	vacuolar proton-transporting V-type ATPase, V1 domain
+ATP6V1G1	regulation of macroautophagy
+ATP6V1G1	cellular response to increased oxygen levels
+ATP6V1G1	synaptic vesicle lumen acidification
+ATP6V1G1	proton-transporting V-type ATPase complex
+ATP6V1G1	proton-transporting V-type ATPase, V1 domain
+ATP6V1G1	ATPase complex
+ATP6V1G1	
+BAZ2B	DNA binding
+BAZ2B	protein binding
+BAZ2B	nucleus
+BAZ2B	zinc ion binding
+BAZ2B	chromatin
+BAZ2B	chromatin remodeling
+BAZ2B	regulation of transcription by RNA polymerase II
+BAZ2B	
+BNIP2	cytoplasm
+BNIP2	intracellular membrane-bounded organelle
+BNIP2	cytosol
+BNIP2	calcium ion binding
+BNIP2	protein binding
+BNIP2	negative regulation of apoptotic process
+BNIP2	apoptotic process
+BNIP2	nuclear envelope
+BNIP2	perinuclear region of cytoplasm
+BNIP2	nucleolus
+BNIP2	GTPase activator activity
+BNIP2	response to oxygen-glucose deprivation
+BNIP2	
+BTAF1	DNA binding
+BTAF1	ATP binding
+BTAF1	ATP hydrolysis activity
+BTAF1	TBP-class protein binding
+BTAF1	nucleus
+BTAF1	nucleoplasm
+BTAF1	hydrolase activity
+BTAF1	protein binding
+BTAF1	intracellular membrane-bounded organelle
+BTAF1	helicase activity
+BTAF1	negative regulation of DNA-templated transcription
+BTAF1	transcription coregulator activity
+BTAF1	negative regulation of chromatin binding
+BTAF1	ATP-dependent activity, acting on DNA
+BTAF1	
+C15orf39	
+C15orf39	cytosol
+CAB39	cytoplasm
+CAB39	protein binding
+CAB39	extracellular region
+CAB39	cytosol
+CAB39	extracellular exosome
+CAB39	intracellular signal transduction
+CAB39	serine/threonine protein kinase complex
+CAB39	secretory granule lumen
+CAB39	ficolin-1-rich granule lumen
+CAB39	kinase binding
+CAB39	protein kinase activator activity
+CAB39	signal transduction
+CAB39	protein serine/threonine kinase activator activity
+CAB39	cellular hypotonic response
+CAB39	negative regulation of potassium ion transmembrane transport
+CAB39	protein serine/threonine kinase binding
+CAB39	response to activity
+CAB39	positive regulation of protein serine/threonine kinase activity
+CAB39	response to thyroid hormone
+CAB39	Z disc
+CAB39	protein-containing complex
+CAB39	
+CAMP	extracellular region
+CAMP	defense response
+CAMP	defense response to bacterium
+CAMP	innate immune response
+CAMP	vesicle
+CAMP	extracellular space
+CAMP	protein binding
+CAMP	defense response to Gram-positive bacterium
+CAMP	positive regulation of cell population proliferation
+CAMP	positive regulation of angiogenesis
+CAMP	defense response to Gram-negative bacterium
+CAMP	killing by host of symbiont cells
+CAMP	antimicrobial humoral immune response mediated by antimicrobial peptide
+CAMP	cellular response to lipopolysaccharide
+CAMP	cellular response to peptidoglycan
+CAMP	cellular response to interleukin-1
+CAMP	cellular response to interleukin-6
+CAMP	cellular response to tumor necrosis factor
+CAMP	specific granule
+CAMP	cell projection
+CAMP	extracellular exosome
+CAMP	innate immune response in mucosa
+CAMP	antibacterial humoral response
+CAMP	lipopolysaccharide binding
+CAMP	specific granule lumen
+CAMP	tertiary granule lumen
+CAMP	neutrophil activation
+CAMP	amyloid fibril formation
+CAMP	cytolysis
+CAPZA2	membrane
+CAPZA2	
+CAPZA2	barbed-end actin filament capping
+CAPZA2	F-actin capping protein complex
+CAPZA2	actin binding
+CAPZA2	extracellular region
+CAPZA2	protein binding
+CAPZA2	actin filament capping
+CAPZA2	cytosol
+CAPZA2	extracellular exosome
+CAPZA2	brush border
+CAPZA2	cortical cytoskeleton
+CAPZA2	actin filament binding
+CAPZA2	actin cytoskeleton organization
+CAPZA2	protein-containing complex assembly
+CAPZA2	actin cytoskeleton
+CARM1	protein-arginine N-methyltransferase activity
+CARM1	peptidyl-arginine methylation
+CARM1	nucleus
+CARM1	cytoplasm
+CARM1	methyltransferase activity
+CARM1	methylation
+CARM1	cytosol
+CARM1	nucleoplasm
+CARM1	protein binding
+CARM1	regulation of DNA-templated transcription
+CARM1	chromosome
+CARM1	chromatin organization
+CARM1	transcription cis-regulatory region binding
+CARM1	chromatin remodeling
+CARM1	histone H4R3 methyltransferase activity
+CARM1	transcription coactivator activity
+CARM1	histone H3R17 methyltransferase activity
+CARM1	histone H3K37 methyltransferase activity
+CARM1	histone H3R2 methyltransferase activity
+CARM1	histone H3R8 methyltransferase activity
+CARM1	histone H3K56 methyltransferase activity
+CARM1	histone H3R26 methyltransferase activity
+CARM1	histone H4K12 methyltransferase activity
+CARM1	histone H2AQ104 methyltransferase activity
+CARM1	protein methyltransferase activity
+CARM1	protein-arginine omega-N asymmetric methyltransferase activity
+CARM1	DNA-binding transcription factor binding
+CARM1	lysine-acetylated histone binding
+CARM1	histone methyltransferase activity
+CARM1	positive regulation of fat cell differentiation
+CARM1	regulation of intracellular estrogen receptor signaling pathway
+CARM1	replication fork reversal
+CARM1	nuclear replication fork
+CARM1	positive regulation of transcription by RNA polymerase I
+CARM1	beta-catenin binding
+CARM1	positive regulation of epithelial cell apoptotic process
+CARM1	histone arginine N-methyltransferase activity
+CARM1	positive regulation of cell population proliferation
+CARM1	response to cAMP
+CARM1	negative regulation of dendrite development
+CARM1	
+CD3E	
+CD3E	membrane
+CD3E	cell surface receptor signaling pathway
+CD3E	transmembrane signaling receptor activity
+CD3E	plasma membrane
+CD3E	endoplasmic reticulum
+CD3E	Golgi apparatus
+CD3E	SH3 domain binding
+CD3E	protein binding
+CD3E	adaptive immune response
+CD3E	alpha-beta T cell receptor complex
+CD3E	external side of plasma membrane
+CD3E	positive regulation of gene expression
+CD3E	protein kinase binding
+CD3E	regulation of apoptotic process
+CD3E	negative regulation of gene expression
+CD3E	protein-containing complex assembly
+CD3E	positive regulation of T cell proliferation
+CD3E	G protein-coupled receptor signaling pathway
+CD3E	T cell activation
+CD3E	T cell receptor signaling pathway
+CD3E	cell surface receptor protein tyrosine kinase signaling pathway
+CD3E	positive regulation of cell-matrix adhesion
+CD3E	identical protein binding
+CD3E	signaling receptor complex adaptor activity
+CD3E	positive regulation of cell-cell adhesion mediated by integrin
+CD3E	T cell receptor binding
+CD3E	positive thymic T cell selection
+CD3E	alpha-beta T cell activation
+CD3E	T cell receptor complex
+CD3E	positive regulation of T cell anergy
+CD3E	T cell anergy
+CD3E	signal complex assembly
+CD3E	smoothened signaling pathway
+CD3E	dendrite development
+CD3E	calcium-mediated signaling
+CD3E	cerebellum development
+CD3E	T cell costimulation
+CD3E	positive regulation of type II interferon production
+CD3E	positive regulation of interleukin-2 production
+CD3E	positive regulation of interleukin-4 production
+CD3E	CD4-positive, alpha-beta T cell proliferation
+CD3E	T cell proliferation
+CD3E	negative thymic T cell selection
+CD3E	negative regulation of smoothened signaling pathway
+CD3E	gamma-delta T cell activation
+CD3E	lymphocyte activation
+CD3E	positive regulation of calcium-mediated signaling
+CD3E	positive regulation of T cell activation
+CD3E	apoptotic signaling pathway
+CD3E	positive regulation of CD4-positive, alpha-beta T cell proliferation
+CD3E	immunological synapse
+CD3E	cell-cell junction
+CD3E	dendritic spine
+CD3E	cell body
+CD3E	gamma-delta T cell receptor complex
+CD48	membrane
+CD48	signal transduction
+CD48	extracellular region
+CD48	plasma membrane
+CD48	protein binding
+CD48	membrane raft
+CD48	immune response
+CD48	receptor ligand activity
+CD48	side of membrane
+CD48	extracellular exosome
+CD48	natural killer cell activation
+CD48	defense response
+CD52	
+CD52	plasma membrane
+CD52	extracellular region
+CD52	side of membrane
+CD52	sperm midpiece
+CD52	membrane
+CD52	positive regulation of cytosolic calcium ion concentration
+CD52	respiratory burst
+CD74	membrane
+CD74	immune response
+CD74	antigen processing and presentation
+CD74	intracellular protein transport
+CD74	MHC class II protein binding
+CD74	protein trimerization
+CD74	macrophage migration inhibitory factor binding
+CD74	extracellular region
+CD74	plasma membrane
+CD74	Golgi apparatus
+CD74	endosome
+CD74	protein binding
+CD74	endoplasmic reticulum
+CD74	endoplasmic reticulum membrane
+CD74	negative regulation of apoptotic process
+CD74	lysosome
+CD74	prostaglandin biosynthetic process
+CD74	cytoplasm
+CD74	adaptive immune response
+CD74	late endosome
+CD74	identical protein binding
+CD74	protein stabilization
+CD74	extracellular exosome
+CD74	protein-containing complex assembly
+CD74	cell surface
+CD74	protein folding chaperone
+CD74	trans-Golgi network membrane
+CD74	positive regulation of gene expression
+CD74	positive regulation of interleukin-6 production
+CD74	positive regulation of interleukin-8 production
+CD74	Golgi membrane
+CD74	endocytic vesicle membrane
+CD74	lysosomal lumen
+CD74	nucleus
+CD74	negative regulation of cell migration
+CD74	positive regulation of ERK1 and ERK2 cascade
+CD74	positive regulation of neutrophil chemotaxis
+CD74	ER to Golgi transport vesicle membrane
+CD74	lysosomal membrane
+CD74	cytokine binding
+CD74	clathrin-coated endocytic vesicle membrane
+CD74	positive regulation of cytokine-mediated signaling pathway
+CD74	response to type II interferon
+CD74	positive regulation of DNA-templated transcription
+CD74	lumenal side of endoplasmic reticulum membrane
+CD74	regulation of macrophage activation
+CD74	negative regulation of DNA damage response, signal transduction by p53 class mediator
+CD74	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+CD74	cytokine receptor activity
+CD74	protein-containing complex
+CD74	positive regulation of fibroblast proliferation
+CD74	amyloid-beta binding
+CD74	positive regulation of chemokine (C-X-C motif) ligand 2 production
+CD74	T cell activation involved in immune response
+CD74	positive regulation of chemokine production
+CD74	positive regulation of prostaglandin biosynthetic process
+CD74	MHC class II protein complex binding
+CD74	positive regulation of protein phosphorylation
+CD74	positive regulation of kinase activity
+CD74	positive regulation of canonical NF-kappaB signal transduction
+CD74	positive regulation of MAPK cascade
+CD74	T cell selection
+CD74	positive regulation of monocyte differentiation
+CD74	positive regulation of viral entry into host cell
+CD74	transport vesicle membrane
+CD74	CD4 receptor binding
+CD74	MHC class II protein binding, via antigen binding groove
+CD74	nitric-oxide synthase binding
+CD74	positive regulation of dendritic cell antigen processing and presentation
+CD74	negative regulation of peptide secretion
+CD74	positive regulation of type 2 immune response
+CD74	negative regulation of mature B cell apoptotic process
+CD74	defense response
+CD74	immunoglobulin mediated immune response
+CD74	antigen processing and presentation of endogenous antigen
+CD74	antigen processing and presentation of exogenous peptide antigen via MHC class II
+CD74	positive regulation of B cell proliferation
+CD74	macrophage migration inhibitory factor signaling pathway
+CD74	positive thymic T cell selection
+CD74	negative thymic T cell selection
+CD74	negative regulation of T cell differentiation
+CD74	positive regulation of T cell differentiation
+CD74	chaperone cofactor-dependent protein refolding
+CD74	positive regulation of macrophage cytokine production
+CD74	positive regulation of macrophage migration inhibitory factor signaling pathway
+CD74	multivesicular body
+CD74	vacuole
+CD74	external side of plasma membrane
+CD74	macrophage migration inhibitory factor receptor complex
+CD74	NOS2-CD74 complex
+CD74	MHC class II protein complex
+CD74	
+CDKN1C	nucleus
+CDKN1C	regulation of cell cycle
+CDKN1C	cyclin-dependent protein serine/threonine kinase inhibitor activity
+CDKN1C	protein kinase inhibitor activity
+CDKN1C	
+CDKN1C	cytoplasm
+CDKN1C	protein binding
+CDKN1C	positive regulation of DNA-templated transcription
+CDKN1C	negative regulation of DNA-templated transcription
+CDKN1C	positive regulation of transforming growth factor beta receptor signaling pathway
+CDKN1C	molecular function inhibitor activity
+CDKN1C	negative regulation of mitotic cell cycle
+CDKN1C	negative regulation of epithelial cell proliferation
+CDKN1C	negative regulation of phosphorylation
+CDKN1C	protein-containing complex binding
+CDKN1C	negative regulation of kinase activity
+CDKN1C	negative regulation of cyclin-dependent protein kinase activity
+CDKN1C	negative regulation of transcription by RNA polymerase II
+CDKN1C	skeletal system development
+CDKN1C	kidney development
+CDKN1C	placenta development
+CDKN1C	regulation of exit from mitosis
+CDKN1C	myeloid cell differentiation
+CDKN1C	adrenal gland development
+CDKN1C	multicellular organism growth
+CDKN1C	neuron maturation
+CDKN1C	camera-type eye development
+CDKN1C	digestive system development
+CDKN1C	uterus development
+CDKN1C	embryonic placenta morphogenesis
+CDKN1C	genomic imprinting
+CDKN1C	regulation of lens fiber cell differentiation
+CEACAM8	plasma membrane
+CEACAM8	protein binding
+CEACAM8	cell adhesion
+CEACAM8	extracellular space
+CEACAM8	cell surface
+CEACAM8	side of membrane
+CEACAM8	extracellular exosome
+CEACAM8	protein heterodimerization activity
+CEACAM8	specific granule membrane
+CEACAM8	tertiary granule membrane
+CEACAM8	immune response
+CEACAM8	azurophil granule membrane
+CEACAM8	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+CEACAM8	
+CHD9	ATP binding
+CHD9	protein binding
+CHD9	nucleus
+CHD9	cytoplasm
+CHD9	cytosol
+CHD9	nucleoplasm
+CHD9	hydrolase activity
+CHD9	DNA binding
+CHD9	helicase activity
+CHD9	chromatin organization
+CHD9	four-way junction helicase activity
+CHD9	double-stranded DNA helicase activity
+CHD9	forked DNA-dependent helicase activity
+CHD9	single-stranded 3'-5' DNA helicase activity
+CHD9	ATP hydrolysis activity
+CHD9	
+CHURC1	zinc ion binding
+CHURC1	multicellular organism development
+CHURC1	positive regulation of DNA-templated transcription
+CHURC1	metal ion binding
+CHURC1	protein binding
+CHURC1	fibroblast growth factor receptor signaling pathway
+CHURC1	
+CLDND1	membrane
+CLDND1	protein binding
+CLDND1	cell surface
+CLDND1	apical plasma membrane
+CLDND1	
+CLIC3	nucleus
+CLIC3	cytoplasm
+CLIC3	extracellular region
+CLIC3	plasma membrane
+CLIC3	protein binding
+CLIC3	oxidoreductase activity
+CLIC3	nuclear body
+CLIC3	monoatomic ion transmembrane transport
+CLIC3	extracellular matrix
+CLIC3	chloride channel activity
+CLIC3	chloride transport
+CLIC3	chloride transmembrane transport
+CLIC3	chloride channel complex
+CLIC3	membrane
+CLIC3	extracellular exosome
+CLIC3	signal transduction
+CLIC3	positive regulation of sprouting angiogenesis
+CLIC3	protein-disulfide reductase (glutathione) activity
+CLIC3	
+CMPK1	ATP binding
+CMPK1	nucleobase-containing compound kinase activity
+CMPK1	nucleobase-containing compound metabolic process
+CMPK1	'de novo' pyrimidine nucleobase biosynthetic process
+CMPK1	pyrimidine nucleotide biosynthetic process
+CMPK1	cytidylate kinase activity
+CMPK1	UMP/dUMP kinase activity
+CMPK1	nucleus
+CMPK1	cytoplasm
+CMPK1	nucleoplasm
+CMPK1	protein binding
+CMPK1	kinase activity
+CMPK1	nucleolus
+CMPK1	nucleoside monophosphate phosphorylation
+CMPK1	nucleoside diphosphate kinase activity
+CMPK1	pyrimidine-containing compound biosynthetic process
+CMPK1	cytosol
+CMPK1	extracellular exosome
+CMPK1	nucleobase-containing small molecule interconversion
+CMPK1	CMP kinase activity
+CMPK1	dCMP kinase activity
+CMPK1	nucleoside monophosphate kinase activity
+CMPK1	UDP biosynthetic process
+CMPK1	uridine kinase activity
+CMPK1	UMP kinase activity
+CMPK1	UMP biosynthetic process
+CMPK1	pyrimidine ribonucleotide biosynthetic process
+CMPK1	CDP biosynthetic process
+CMPK1	nucleotide metabolic process
+CMPK1	phosphotransferase activity, phosphate group as acceptor
+CMPK1	nucleoside monophosphate metabolic process
+CMPK1	
+CMTM6	membrane
+CMTM6	plasma membrane
+CMTM6	endosome
+CMTM6	protein binding
+CMTM6	protein transport
+CMTM6	recycling endosome membrane
+CMTM6	early endosome membrane
+CMTM6	endocytic recycling
+CMTM6	specific granule membrane
+CMTM6	regulation of protein stability
+CMTM6	azurophil granule membrane
+CMTM6	
+CNIH4	vesicle-mediated transport
+CNIH4	membrane
+CNIH4	protein binding
+CNIH4	endoplasmic reticulum
+CNIH4	protein transport
+CNIH4	endoplasmic reticulum-Golgi intermediate compartment
+CNIH4	endoplasmic reticulum to Golgi vesicle-mediated transport
+CNIH4	endoplasmic reticulum membrane
+CNIH4	signaling receptor binding
+CNIH4	COPII-coated ER to Golgi transport vesicle
+CNIH4	CCR5 chemokine receptor binding
+CNIH4	
+COMMD3	
+COMMD3	sodium ion transport
+COMMD3	nucleus
+COMMD3	cytoplasm
+COMMD3	protein binding
+COMMD3	extracellular region
+COMMD3	ficolin-1-rich granule lumen
+COMMD6	nucleus
+COMMD6	cytoplasm
+COMMD6	protein binding
+COMMD6	signal transduction
+COMMD6	NF-kappaB binding
+COMMD6	negative regulation of NF-kappaB transcription factor activity
+COMMD6	
+COX7A2	mitochondrial electron transport, cytochrome c to oxygen
+COX7A2	respiratory chain complex IV
+COX7A2	mitochondrion
+COX7A2	mitochondrial inner membrane
+COX7A2	
+COX7A2	protein binding
+COX7A2	oxidoreductase activity
+COX7A2	oxidative phosphorylation
+COX7A2	mitochondrial respirasome assembly
+COX7A2	respiratory chain complex
+COX7A2	cellular respiration
+COX7A2	mitochondrial membrane
+COX7B	mitochondrial electron transport, cytochrome c to oxygen
+COX7B	mitochondrion
+COX7B	mitochondrial inner membrane
+COX7B	oxidative phosphorylation
+COX7B	protein binding
+COX7B	proton transmembrane transport
+COX7B	central nervous system development
+COX7B	cellular respiration
+COX7B	mitochondrial membrane
+COX7B	respiratory chain complex IV
+COX7B	cytochrome-c oxidase activity
+COX7B	
+COX7C	mitochondrial electron transport, cytochrome c to oxygen
+COX7C	respiratory chain complex IV
+COX7C	mitochondrion
+COX7C	protein binding
+COX7C	mitochondrial inner membrane
+COX7C	oxidative phosphorylation
+COX7C	cellular respiration
+COX7C	mitochondrial membrane
+COX7C	generation of precursor metabolites and energy
+COX7C	
+CPD	zinc ion binding
+CPD	proteolysis
+CPD	metallocarboxypeptidase activity
+CPD	plasma membrane
+CPD	membrane
+CPD	metal ion binding
+CPD	metallopeptidase activity
+CPD	carboxypeptidase activity
+CPD	extracellular space
+CPD	extracellular exosome
+CPD	protein processing
+CPD	serine-type carboxypeptidase activity
+CPD	peptide metabolic process
+CPD	
+CPD	hydrolase activity
+CRBN	nucleus
+CRBN	cytoplasm
+CRBN	protein ubiquitination
+CRBN	
+CRBN	membrane
+CRBN	metal ion binding
+CRBN	protein binding
+CRBN	proteasome-mediated ubiquitin-dependent protein catabolic process
+CRBN	cytosol
+CRBN	Cul4A-RING E3 ubiquitin ligase complex
+CRBN	transmembrane transporter binding
+CRBN	positive regulation of Wnt signaling pathway
+CRBN	negative regulation of protein-containing complex assembly
+CRBN	positive regulation of protein-containing complex assembly
+CRBN	negative regulation of monoatomic ion transmembrane transport
+CRBN	locomotory exploration behavior
+CRBN	perinuclear region of cytoplasm
+CTSW	proteolysis
+CTSW	cysteine-type peptidase activity
+CTSW	membrane
+CTSW	endoplasmic reticulum
+CTSW	extracellular region
+CTSW	extracellular space
+CTSW	immune response
+CTSW	lysosome
+CTSW	cysteine-type endopeptidase activity
+CTSW	proteolysis involved in protein catabolic process
+CTSW	platelet dense granule lumen
+CTSW	
+CX3CR1	G protein-coupled receptor signaling pathway
+CX3CR1	membrane
+CX3CR1	chemotaxis
+CX3CR1	G protein-coupled receptor activity
+CX3CR1	cell adhesion
+CX3CR1	C-X3-C chemokine receptor activity
+CX3CR1	plasma membrane
+CX3CR1	innate immune response
+CX3CR1	adaptive immune response
+CX3CR1	immune response
+CX3CR1	external side of plasma membrane
+CX3CR1	protein binding
+CX3CR1	inflammatory response
+CX3CR1	positive regulation of canonical NF-kappaB signal transduction
+CX3CR1	cellular response to lipopolysaccharide
+CX3CR1	cell surface
+CX3CR1	response to wounding
+CX3CR1	neuron projection
+CX3CR1	chemokine receptor activity
+CX3CR1	C-C chemokine receptor activity
+CX3CR1	C-C chemokine binding
+CX3CR1	positive regulation of cytosolic calcium ion concentration
+CX3CR1	calcium-mediated signaling
+CX3CR1	cell chemotaxis
+CX3CR1	brain development
+CX3CR1	modulation of chemical synaptic transmission
+CX3CR1	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+CX3CR1	antifungal innate immune response
+CX3CR1	regulation of synaptic plasticity
+CX3CR1	cellular defense response
+CX3CR1	microglial cell activation involved in immune response
+CX3CR1	regulation of nitric oxide biosynthetic process
+CX3CR1	response to ischemia
+CX3CR1	perinuclear region of cytoplasm
+CX3CR1	negative regulation of apoptotic signaling pathway
+CX3CR1	positive regulation of neurogenesis
+CX3CR1	regulation of neurogenesis
+CX3CR1	synapse pruning
+CX3CR1	leukocyte chemotaxis
+CX3CR1	negative regulation of interleukin-1 beta production
+CX3CR1	C-X3-C chemokine binding
+CX3CR1	neuronal cell body membrane
+CX3CR1	cell-cell signaling
+CX3CR1	macropinosome membrane
+CX3CR1	host-mediated regulation of intestinal microbiota composition
+CX3CR1	phospholipase C-activating G protein-coupled receptor signaling pathway
+CX3CR1	G protein-coupled peptide receptor activity
+CX3CR1	CX3C chemokine receptor binding
+CX3CR1	positive regulation of neuroblast proliferation
+CX3CR1	central nervous system maturation
+CX3CR1	regulation of tumor necrosis factor production
+CX3CR1	social behavior
+CX3CR1	autocrine signaling
+CX3CR1	leukocyte tethering or rolling
+CX3CR1	synapse maturation
+CX3CR1	negative regulation of hippocampal neuron apoptotic process
+CX3CR1	multiple spine synapse organization, single dendrite
+CX3CR1	regulation of microglial cell migration
+CX3CR1	negative regulation of microglial cell mediated cytotoxicity
+CX3CR1	dendritic tree
+CX3CR1	cytokine receptor activity
+CX3CR1	negative regulation of angiogenesis
+CX3CR1	positive regulation of monocyte chemotaxis
+CX3CR1	chemokine-mediated signaling pathway
+CYB5R4	oxidoreductase activity
+CYB5R4	heme binding
+CYB5R4	metal ion binding
+CYB5R4	endoplasmic reticulum
+CYB5R4	perinuclear region of cytoplasm
+CYB5R4	cytoplasm
+CYB5R4	cytochrome-b5 reductase activity, acting on NAD(P)H
+CYB5R4	reactive oxygen species metabolic process
+CYB5R4	endoplasmic reticulum membrane
+CYB5R4	superoxide metabolic process
+CYB5R4	cell development
+CYB5R4	NAD(P)H oxidase H2O2-forming activity
+CYB5R4	glucose homeostasis
+CYB5R4	response to antibiotic
+CYB5R4	bicarbonate transport
+CYB5R4	insulin secretion
+CYB5R4	detection of oxygen
+CYB5R4	oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor
+CYB5R4	
+CYP1B1	
+CYP1B1	monooxygenase activity
+CYP1B1	heme binding
+CYP1B1	iron ion binding
+CYP1B1	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+CYP1B1	membrane
+CYP1B1	metal ion binding
+CYP1B1	lyase activity
+CYP1B1	mitochondrion
+CYP1B1	protein binding
+CYP1B1	endoplasmic reticulum
+CYP1B1	endoplasmic reticulum membrane
+CYP1B1	fatty acid metabolic process
+CYP1B1	cell adhesion
+CYP1B1	steroid metabolic process
+CYP1B1	steroid hydroxylase activity
+CYP1B1	hormone metabolic process
+CYP1B1	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+CYP1B1	negative regulation of cell population proliferation
+CYP1B1	intracellular membrane-bounded organelle
+CYP1B1	hydroperoxy icosatetraenoate dehydratase activity
+CYP1B1	retinol metabolic process
+CYP1B1	negative regulation of NF-kappaB transcription factor activity
+CYP1B1	negative regulation of cell migration
+CYP1B1	positive regulation of apoptotic process
+CYP1B1	positive regulation of angiogenesis
+CYP1B1	arachidonic acid metabolic process
+CYP1B1	collagen fibril organization
+CYP1B1	xenobiotic metabolic process
+CYP1B1	cellular response to hydrogen peroxide
+CYP1B1	intrinsic apoptotic signaling pathway in response to oxidative stress
+CYP1B1	blood vessel morphogenesis
+CYP1B1	endothelial cell migration
+CYP1B1	estrogen metabolic process
+CYP1B1	regulation of reactive oxygen species metabolic process
+CYP1B1	sterol metabolic process
+CYP1B1	positive regulation of receptor signaling pathway via JAK-STAT
+CYP1B1	negative regulation of cell adhesion mediated by integrin
+CYP1B1	estrogen 16-alpha-hydroxylase activity
+CYP1B1	estrogen 2-hydroxylase activity
+CYP1B1	epoxygenase P450 pathway
+CYP1B1	omega-hydroxylase P450 pathway
+CYP1B1	testosterone 6-beta-hydroxylase activity
+CYP1B1	nitric oxide biosynthetic process
+CYP1B1	positive regulation of vascular endothelial growth factor production
+CYP1B1	retinal metabolic process
+CYP1B1	trabecular meshwork development
+CYP1B1	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+CYP1B1	angiogenesis
+CYP1B1	toxin metabolic process
+CYP1B1	response to toxic substance
+CYP1B1	benzene-containing compound metabolic process
+CYP1B1	blood vessel endothelial cell migration
+CYP1B1	membrane lipid catabolic process
+CYP1B1	retina vasculature development in camera-type eye
+CYP1B1	retinal blood vessel morphogenesis
+CYP1B1	endothelial cell-cell adhesion
+CYP1B1	lipid metabolic process
+DCP2	manganese ion binding
+DCP2	RNA binding
+DCP2	hydrolase activity
+DCP2	deadenylation-dependent decapping of nuclear-transcribed mRNA
+DCP2	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay
+DCP2	5'-(N(7)-methylguanosine 5'-triphospho)-[mRNA] hydrolase activity
+DCP2	nucleus
+DCP2	cytoplasm
+DCP2	nucleoplasm
+DCP2	metal ion binding
+DCP2	protein binding
+DCP2	cell junction
+DCP2	regulation of mRNA stability
+DCP2	cytoplasmic ribonucleoprotein granule
+DCP2	P-body
+DCP2	mRNA catabolic process
+DCP2	mRNA metabolic process
+DCP2	cytosol
+DCP2	telomerase RNA binding
+DCP2	histone mRNA catabolic process
+DCP2	regulation of telomerase RNA localization to Cajal body
+DCP2	negative regulation of telomere maintenance via telomerase
+DCP2	RISC complex
+DCP2	5'-3' RNA exonuclease activity
+DCP2	RNA exonuclease activity, producing 5'-phosphomonoesters
+DCP2	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+DCP2	
+DEFA1	extracellular region
+DEFA1	extracellular space
+DEFA1	defense response
+DEFA1	protein binding
+DEFA1	defense response to virus
+DEFA1	defense response to Gram-positive bacterium
+DEFA1	defense response to bacterium
+DEFA1	killing of cells of another organism
+DEFA1	Golgi lumen
+DEFA1	extracellular exosome
+DEFA1	collagen-containing extracellular matrix
+DEFA1	innate immune response in mucosa
+DEFA1	antibacterial humoral response
+DEFA1	antimicrobial humoral immune response mediated by antimicrobial peptide
+DEFA1	chemotaxis
+DEFA1	immune response
+DEFA1	defense response to Gram-negative bacterium
+DEFA1	T cell chemotaxis
+DEFA1	azurophil granule lumen
+DEFA1	defense response to fungus
+DEFA1	intracellular estrogen receptor signaling pathway
+DEFA1	cellular response to lipopolysaccharide
+DEFA1	defense response to protozoan
+DEFA1	killing by host of symbiont cells
+DEFA1	disruption of plasma membrane integrity in another organism
+DEFA1	pore-forming activity
+DEFA3	extracellular region
+DEFA3	extracellular space
+DEFA3	defense response
+DEFA3	defense response to virus
+DEFA3	protein homodimerization activity
+DEFA3	defense response to Gram-positive bacterium
+DEFA3	defense response to bacterium
+DEFA3	killing of cells of another organism
+DEFA3	Golgi lumen
+DEFA3	extracellular exosome
+DEFA3	innate immune response in mucosa
+DEFA3	antibacterial humoral response
+DEFA3	antimicrobial humoral immune response mediated by antimicrobial peptide
+DEFA3	defense response to Gram-negative bacterium
+DEFA3	azurophil granule lumen
+DEFA3	defense response to fungus
+DEFA3	intracellular estrogen receptor signaling pathway
+DEFA3	cellular response to lipopolysaccharide
+DEFA3	disruption of plasma membrane integrity in another organism
+DEFA4	extracellular region
+DEFA4	extracellular space
+DEFA4	defense response
+DEFA4	innate immune response
+DEFA4	protein homodimerization activity
+DEFA4	defense response to Gram-positive bacterium
+DEFA4	cytoplasmic vesicle
+DEFA4	defense response to bacterium
+DEFA4	killing of cells of another organism
+DEFA4	defense response to Gram-negative bacterium
+DEFA4	Golgi lumen
+DEFA4	transport vesicle
+DEFA4	antibacterial humoral response
+DEFA4	antimicrobial humoral immune response mediated by antimicrobial peptide
+DEFA4	azurophil granule
+DEFA4	specific granule lumen
+DEFA4	defense response to fungus
+DEFA4	cellular response to lipopolysaccharide
+DEFA4	antifungal humoral response
+DEFA4	innate immune response in mucosa
+DEFA4	antimicrobial humoral response
+DEFA4	disruption of plasma membrane integrity in another organism
+DEK	DNA binding
+DEK	chromatin organization
+DEK	nucleus
+DEK	RNA binding
+DEK	nucleoplasm
+DEK	protein binding
+DEK	histone binding
+DEK	chromatin remodeling
+DEK	positive regulation of transcription by RNA polymerase I
+DEK	positive regulation of transcription by RNA polymerase II
+DEK	positive regulation of transcription by RNA polymerase III
+DEK	nucleolus
+DEK	B-WICH complex
+DEK	signal transduction
+DEK	transcription by RNA polymerase II
+DEK	regulation of transcription by RNA polymerase II
+DEK	viral genome replication
+DEK	regulation of double-strand break repair
+DEK	regulation of double-strand break repair via nonhomologous end joining
+DEK	contractile muscle fiber
+DEK	
+DOCK11	guanyl-nucleotide exchange factor activity
+DOCK11	small GTPase-mediated signal transduction
+DOCK11	protein binding
+DOCK11	regulation of Rho protein signal transduction
+DOCK11	cytosol
+DOCK11	positive regulation of GTPase activity
+DOCK11	positive regulation of filopodium assembly
+DOCK11	marginal zone B cell differentiation
+DOCK11	B cell homeostasis
+DOCK11	small GTPase binding
+DOCK11	
+DPYSL5	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+DPYSL5	cytoplasm
+DPYSL5	hydrolase activity
+DPYSL5	protein binding
+DPYSL5	cytosol
+DPYSL5	nervous system development
+DPYSL5	signal transduction
+DPYSL5	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides
+DPYSL5	axon guidance
+DPYSL5	negative regulation of dendrite morphogenesis
+DPYSL5	neuron differentiation
+DPYSL5	dendrite
+DPYSL5	neuronal cell body
+DPYSL5	synapse
+DPYSL5	glutamatergic synapse
+DPYSL5	protein-containing complex
+DPYSL5	
+EFR3A	cytoplasm
+EFR3A	plasma membrane
+EFR3A	cytosol
+EFR3A	phosphatidylinositol phosphate biosynthetic process
+EFR3A	protein localization to plasma membrane
+EFR3A	
+EIF1AY	RNA binding
+EIF1AY	translation initiation factor activity
+EIF1AY	translational initiation
+EIF1AY	cytoplasm
+EIF1AY	protein binding
+EIF1AY	translation
+EIF1AY	tRNA binding
+EIF1AY	
+EVI2A	membrane
+EVI2A	cytosol
+EVI2A	Golgi apparatus
+EVI2A	plasma membrane
+EVI2A	protein binding
+EVI2A	cilium
+EVI2A	intracellular membrane-bounded organelle
+EVI2A	transmembrane signaling receptor activity
+FAU	structural constituent of ribosome
+FAU	translation
+FAU	ribosome
+FAU	protein binding
+FAU	nucleus
+FAU	RNA binding
+FAU	cytoplasm
+FAU	cytosol
+FAU	ribonucleoprotein complex
+FAU	extracellular space
+FAU	defense response to Gram-positive bacterium
+FAU	cytosolic small ribosomal subunit
+FAU	nucleoplasm
+FAU	small ribosomal subunit
+FAU	protein ubiquitination
+FAU	ubiquitin protein ligase binding
+FAU	innate immune response in mucosa
+FAU	antibacterial humoral response
+FAU	antimicrobial humoral immune response mediated by antimicrobial peptide
+FAU	cytoplasmic translation
+FAU	protein tag activity
+FAU	modification-dependent protein catabolic process
+FAU	cytosolic ribosome
+FAU	
+FEM1C	protein binding
+FEM1C	cytosol
+FEM1C	nucleoplasm
+FEM1C	protein ubiquitination
+FEM1C	proteasome-mediated ubiquitin-dependent protein catabolic process
+FEM1C	ubiquitin-like ligase-substrate adaptor activity
+FEM1C	ubiquitin ligase complex
+FEM1C	Cul2-RING ubiquitin ligase complex
+FEM1C	ubiquitin-dependent protein catabolic process via the C-end degron rule pathway
+FKBP8	protein binding
+FKBP8	peptidyl-prolyl cis-trans isomerase activity
+FKBP8	membrane
+FKBP8	endoplasmic reticulum
+FKBP8	cytosol
+FKBP8	metal ion binding
+FKBP8	mitochondrion
+FKBP8	apoptotic process
+FKBP8	mitochondrial membrane
+FKBP8	RNA polymerase II CTD heptapeptide repeat P3 isomerase activity
+FKBP8	RNA polymerase II CTD heptapeptide repeat P6 isomerase activity
+FKBP8	regulation of transcription by RNA polymerase II
+FKBP8	protein folding
+FKBP8	identical protein binding
+FKBP8	negative regulation of apoptotic process
+FKBP8	endomembrane system
+FKBP8	protein-containing complex
+FKBP8	protein localization to mitochondrion
+FKBP8	intracellular signal transduction
+FKBP8	mitochondrial envelope
+FKBP8	protein folding chaperone
+FKBP8	disordered domain specific binding
+FKBP8	calmodulin binding
+FKBP8	negative regulation of protein phosphorylation
+FKBP8	regulation of mitophagy
+FKBP8	cell fate specification
+FKBP8	smoothened signaling pathway
+FKBP8	dorsal/ventral pattern formation
+FKBP8	regulation of gene expression
+FKBP8	dorsal/ventral neural tube patterning
+FKBP8	neural tube development
+FKBP8	BMP signaling pathway
+FKBP8	regulation of BMP signaling pathway
+FKBP8	positive regulation of BMP signaling pathway
+FKBP8	multicellular organism growth
+FKBP8	camera-type eye development
+FKBP8	neuron fate specification
+FKBP8	endoplasmic reticulum membrane
+FKBP8	
+FKBP8	isomerase activity
+FOXN2	regulation of DNA-templated transcription
+FOXN2	DNA-binding transcription factor activity
+FOXN2	sequence-specific DNA binding
+FOXN2	nucleus
+FOXN2	DNA binding
+FOXN2	nucleoplasm
+FOXN2	protein binding
+FOXN2	intracellular membrane-bounded organelle
+FOXN2	regulation of transcription by RNA polymerase II
+FOXN2	DNA-binding transcription factor activity, RNA polymerase II-specific
+FOXN2	chromatin
+FOXN2	sequence-specific double-stranded DNA binding
+FOXN2	cis-regulatory region sequence-specific DNA binding
+FOXN2	skeletal muscle cell differentiation
+GLRX	cytoplasm
+GLRX	protein binding
+GLRX	cytosol
+GLRX	extracellular exosome
+GLRX	sodium channel regulator activity
+GLRX	nucleobase-containing small molecule interconversion
+GLRX	glutathione disulfide oxidoreductase activity
+GLRX	positive regulation of membrane potential
+GLRX	
+GLRX	nucleus
+GMFB	Arp2/3 complex binding
+GMFB	actin filament debranching
+GMFB	actin binding
+GMFB	growth factor activity
+GMFB	signal transduction
+GMFB	protein phosphorylation
+GMFB	nervous system development
+GMFB	cortical actin cytoskeleton
+GMFB	protein kinase inhibitor activity
+GMFB	enzyme activator activity
+GMFB	negative regulation of Arp2/3 complex-mediated actin nucleation
+GMFB	
+GNG10	G protein-coupled receptor signaling pathway
+GNG10	G-protein beta-subunit binding
+GNG10	heterotrimeric G-protein complex
+GNG10	plasma membrane
+GNG10	protein binding
+GNG10	signal transduction
+GNG10	GTPase activity
+GP9	protein binding
+GP9	membrane
+GP9	cell adhesion
+GP9	plasma membrane
+GP9	blood coagulation
+GP9	blood coagulation, intrinsic pathway
+GP9	positive regulation of platelet activation
+GP9	megakaryocyte development
+GP9	release of sequestered calcium ion into cytosol
+GP9	glycoprotein Ib-IX-V complex
+GRINA	membrane
+GRINA	protein binding
+GRINA	negative regulation of apoptotic process
+GRINA	calcium ion transmembrane transport
+GRINA	endoplasmic reticulum
+GRINA	apoptotic signaling pathway
+GRINA	Golgi apparatus
+GRINA	calcium channel activity
+GRINA	negative regulation of neuron apoptotic process
+GRINA	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+GRINA	Golgi membrane
+GRINA	transmembrane transporter binding
+GRINA	endoplasmic reticulum calcium ion homeostasis
+GRINA	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+GRINA	
+GZMH	proteolysis
+GZMH	serine-type endopeptidase activity
+GZMH	membrane
+GZMH	hydrolase activity
+GZMH	apoptotic process
+GZMH	lysosome
+GZMH	serine-type peptidase activity
+GZMH	extracellular space
+GZMH	killing of cells of another organism
+GZMH	protein maturation
+GZMH	cytolytic granule
+HDC	
+HDC	pyridoxal phosphate binding
+HDC	amino acid metabolic process
+HDC	carboxylic acid metabolic process
+HDC	carbon-carbon lyase activity
+HDC	carboxy-lyase activity
+HDC	protein binding
+HDC	cytoplasm
+HDC	catecholamine biosynthetic process
+HDC	cytosol
+HDC	histidine decarboxylase activity
+HDC	histamine biosynthetic process
+HDC	histidine metabolic process
+HDC	histidine catabolic process
+HDC	lyase activity
+HINT1	catalytic activity
+HINT1	
+HINT1	nucleus
+HINT1	cytoplasm
+HINT1	cytosol
+HINT1	nucleoplasm
+HINT1	hydrolase activity
+HINT1	plasma membrane
+HINT1	protein binding
+HINT1	apoptotic process
+HINT1	regulation of DNA-templated transcription
+HINT1	cysteine-type peptidase activity
+HINT1	proteolysis
+HINT1	nucleotide binding
+HINT1	deSUMOylase activity
+HINT1	protein desumoylation
+HINT1	positive regulation of calcium-mediated signaling
+HINT1	extracellular exosome
+HINT1	histone deacetylase complex
+HINT1	signal transduction
+HINT1	cytoskeleton
+HINT1	intrinsic apoptotic signaling pathway by p53 class mediator
+HINT1	protein kinase C binding
+HINT1	adenosine 5'-monophosphoramidase activity
+HINT1	purine ribonucleotide catabolic process
+IFNGR1	membrane
+IFNGR1	protein binding
+IFNGR1	cytokine receptor activity
+IFNGR1	cytokine binding
+IFNGR1	type II interferon-mediated signaling pathway
+IFNGR1	plasma membrane
+IFNGR1	
+IFNGR1	cytokine-mediated signaling pathway
+IFNGR1	microglial cell activation
+IFNGR1	positive regulation of gene expression
+IFNGR1	positive regulation of tumor necrosis factor production
+IFNGR1	astrocyte activation
+IFNGR1	defense response to virus
+IFNGR1	negative regulation of amyloid-beta clearance
+IFNGR1	positive regulation of amyloid-beta formation
+IFNGR1	cellular response to virus
+IFNGR1	signal transduction
+IFNGR1	response to virus
+IFNGR1	type III interferon-mediated signaling pathway
+IFNGR1	type II interferon receptor activity
+ITGA2B	cell adhesion
+ITGA2B	integrin complex
+ITGA2B	plasma membrane
+ITGA2B	membrane
+ITGA2B	metal ion binding
+ITGA2B	integrin-mediated signaling pathway
+ITGA2B	protein binding
+ITGA2B	external side of plasma membrane
+ITGA2B	identical protein binding
+ITGA2B	cell surface
+ITGA2B	extracellular exosome
+ITGA2B	blood microparticle
+ITGA2B	angiogenesis
+ITGA2B	cell-cell adhesion
+ITGA2B	integrin binding
+ITGA2B	molecular adaptor activity
+ITGA2B	platelet alpha granule membrane
+ITGA2B	cell-matrix adhesion
+ITGA2B	cell adhesion mediated by integrin
+ITGA2B	integrin alphaIIb-beta3 complex
+ITGA2B	extracellular matrix binding
+ITGA2B	fibrinogen binding
+ITGA2B	positive regulation of leukocyte migration
+ITGA2B	focal adhesion
+ITGA2B	
+ITGAL	
+ITGAL	cell adhesion
+ITGAL	integrin complex
+ITGAL	plasma membrane
+ITGAL	membrane
+ITGAL	metal ion binding
+ITGAL	protein binding
+ITGAL	signal transduction
+ITGAL	external side of plasma membrane
+ITGAL	cell surface
+ITGAL	integrin-mediated signaling pathway
+ITGAL	inflammatory response
+ITGAL	phagocytosis
+ITGAL	extracellular exosome
+ITGAL	specific granule membrane
+ITGAL	cell-cell adhesion
+ITGAL	receptor clustering
+ITGAL	integrin binding
+ITGAL	cell-matrix adhesion
+ITGAL	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules
+ITGAL	cell adhesion mediated by integrin
+ITGAL	cell adhesion molecule binding
+ITGAL	ICAM-3 receptor activity
+ITGAL	integrin alphaL-beta2 complex
+ITGAL	T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell
+ITGAL	leukocyte cell-cell adhesion
+ITGAL	memory T cell extravasation
+ITGAL	protein-containing complex binding
+KIR3DL2	plasma membrane
+KIR3DL2	membrane
+KIR3DL2	protein binding
+KIR3DL2	immune response-regulating signaling pathway
+KIR3DL2	cellular defense response
+KIR3DL2	MHC class Ib protein binding
+KIR3DL2	
+LEPROTL1	membrane
+LEPROTL1	protein binding
+LEPROTL1	identical protein binding
+LEPROTL1	endosome
+LEPROTL1	late endosome to vacuole transport via multivesicular body sorting pathway
+LEPROTL1	negative regulation of growth hormone receptor signaling pathway
+LMBRD1	membrane
+LMBRD1	intracellular membrane-bounded organelle
+LMBRD1	plasma membrane
+LMBRD1	protein binding
+LMBRD1	endocytosis
+LMBRD1	endoplasmic reticulum
+LMBRD1	endoplasmic reticulum membrane
+LMBRD1	lysosome
+LMBRD1	cobalamin binding
+LMBRD1	lysosomal membrane
+LMBRD1	cytoplasmic vesicle
+LMBRD1	clathrin-coated vesicle
+LMBRD1	gastrulation
+LMBRD1	clathrin-dependent endocytosis
+LMBRD1	protein localization to lysosome
+LMBRD1	clathrin heavy chain binding
+LMBRD1	insulin receptor internalization
+LMBRD1	clathrin-coated endocytic vesicle
+LMBRD1	AP-2 adaptor complex binding
+LMBRD1	insulin receptor binding
+LMBRD1	protein transporter activity
+LMBRD1	
+LRRN3	protein binding
+LRRN3	membrane
+LRRN3	extracellular space
+LRRN3	extracellular matrix
+LRRN3	positive regulation of synapse assembly
+LRRN3	
+LSM3	RNA binding
+LSM3	mRNA splicing, via spliceosome
+LSM3	nucleus
+LSM3	spliceosomal complex
+LSM3	mRNA processing
+LSM3	RNA splicing
+LSM3	protein binding
+LSM3	Sm-like protein family complex
+LSM3	nucleoplasm
+LSM3	catalytic step 2 spliceosome
+LSM3	U4/U6 x U5 tri-snRNP complex
+LSM3	cytosol
+LSM3	P-body
+LSM3	P-body assembly
+LSM3	Lsm1-7-Pat1 complex
+LSM3	U2-type precatalytic spliceosome
+LSM3	precatalytic spliceosome
+LSM3	U6 snRNP
+LSM3	Lsm2-8 complex
+LSM3	U6 snRNA 3'-end binding
+LY6E	
+LY6E	plasma membrane
+LY6E	protein binding
+LY6E	synapse
+LY6E	extracellular region
+LY6E	side of membrane
+LY6E	acetylcholine receptor binding
+LY6E	acetylcholine receptor signaling pathway
+LY6E	cell surface receptor signaling pathway
+LY6E	negative regulation of viral entry into host cell
+LY6E	acetylcholine receptor inhibitor activity
+LY96	innate immune response
+LY96	lipopolysaccharide binding
+LY96	Toll-like receptor 4 binding
+LY96	extracellular region
+LY96	plasma membrane
+LY96	protein binding
+LY96	inflammatory response
+LY96	endosome membrane
+LY96	positive regulation of tumor necrosis factor production
+LY96	response to lipopolysaccharide
+LY96	lipopolysaccharide immune receptor activity
+LY96	toll-like receptor signaling pathway
+LY96	detection of lipopolysaccharide
+LY96	toll-like receptor 4 signaling pathway
+LY96	receptor complex
+LY96	lipopolysaccharide receptor complex
+LY96	cell surface receptor signaling pathway
+LY96	coreceptor activity
+LY96	cellular defense response
+LY96	cellular response to lipopolysaccharide
+LY96	positive regulation of lipopolysaccharide-mediated signaling pathway
+LY96	lipopolysaccharide-mediated signaling pathway
+LYPD2	plasma membrane
+LYPD2	protein binding
+LYPD2	extracellular region
+LYPD2	side of membrane
+MAP1S	microtubule
+MAP1S	microtubule binding
+MAP1S	microtubule cytoskeleton organization
+MAP1S	
+MAP1S	nucleus
+MAP1S	cytoplasm
+MAP1S	cell projection
+MAP1S	cytosol
+MAP1S	nucleoplasm
+MAP1S	cytoskeleton
+MAP1S	protein binding
+MAP1S	apoptotic process
+MAP1S	DNA binding
+MAP1S	nucleolus
+MAP1S	synapse
+MAP1S	spindle
+MAP1S	axonogenesis
+MAP1S	neuronal cell body
+MAP1S	dendrite
+MAP1S	actin binding
+MAP1S	dendrite development
+MAP1S	perinuclear region of cytoplasm
+MAP1S	nervous system development
+MAP1S	tubulin binding
+MAP1S	microtubule bundle formation
+MAP1S	microtubule associated complex
+MAP1S	brain development
+MAP1S	beta-tubulin binding
+MAP1S	mitochondrion transport along microtubule
+MAP1S	regulation of microtubule depolymerization
+MAP1S	centrosome
+MAP1S	autophagy
+MAP1S	identical protein binding
+MAP1S	actin filament binding
+MAP1S	mitotic spindle organization
+MAP1S	neuron projection morphogenesis
+MAP1S	metaphase chromosome alignment
+MAP1S	microtubule organizing center
+MAP1S	microtubule cytoskeleton
+MAP1S	mitotic spindle microtubule
+MAP3K1	zinc ion binding
+MAP3K1	ATP binding
+MAP3K1	protein phosphorylation
+MAP3K1	protein kinase activity
+MAP3K1	protein serine/threonine kinase activity
+MAP3K1	protein binding
+MAP3K1	MAPK cascade
+MAP3K1	intracellular signal transduction
+MAP3K1	cytoplasm
+MAP3K1	protein serine kinase activity
+MAP3K1	protein kinase binding
+MAP3K1	MAP kinase kinase kinase activity
+MAP3K1	cytosol
+MAP3K1	cellular response to mechanical stimulus
+MAP3K1	JUN kinase kinase kinase activity
+MAP3K1	Fc-epsilon receptor signaling pathway
+MAP3K1	tight junction
+MAP3K1	
+MED25	
+MED25	nucleus
+MED25	nucleoplasm
+MED25	protein binding
+MED25	positive regulation of transcription by RNA polymerase II
+MED25	negative regulation of transcription by RNA polymerase II
+MED25	transcription regulator complex
+MED25	positive regulation of transcription elongation by RNA polymerase II
+MED25	RNA polymerase II preinitiation complex assembly
+MED25	positive regulation of transcription initiation by RNA polymerase II
+MED25	mediator complex
+MED25	core mediator complex
+MED25	nuclear retinoic acid receptor binding
+MED25	transcription coactivator binding
+MED25	nuclear retinoid X receptor binding
+MED25	negative regulation of fibroblast proliferation
+MED25	positive regulation of chromatin binding
+MED25	positive regulation of mediator complex assembly
+NDUFA4	mitochondrion
+NDUFA4	protein binding
+NDUFA4	mitochondrial inner membrane
+NDUFA4	respiratory chain complex IV
+NDUFA4	proton transmembrane transport
+NDUFA4	NADH dehydrogenase (ubiquinone) activity
+NDUFA4	mitochondrial electron transport, NADH to ubiquinone
+NDUFA4	protein-containing complex binding
+NDUFA4	mitochondrial electron transport, cytochrome c to oxygen
+NDUFA4	cellular respiration
+NDUFA4	mitochondrial membrane
+NDUFA4	
+NDUFB2	mitochondrial inner membrane
+NDUFB2	respiratory chain complex I
+NDUFB2	mitochondrion
+NDUFB2	proton transmembrane transport
+NDUFB2	NADH dehydrogenase (ubiquinone) activity
+NDUFB2	mitochondrial respiratory chain complex I assembly
+NDUFB2	mitochondrial electron transport, NADH to ubiquinone
+NDUFB2	aerobic respiration
+NDUFB2	proton motive force-driven mitochondrial ATP synthesis
+NDUFB2	
+NDUFB3	mitochondrion
+NDUFB3	electron transport chain
+NDUFB3	mitochondrial inner membrane
+NDUFB3	proton transmembrane transport
+NDUFB3	NADH dehydrogenase (ubiquinone) activity
+NDUFB3	mitochondrial respiratory chain complex I assembly
+NDUFB3	respiratory chain complex I
+NDUFB3	mitochondrial electron transport, NADH to ubiquinone
+NDUFB3	aerobic respiration
+NDUFB3	proton motive force-driven mitochondrial ATP synthesis
+NDUFS4	
+NDUFS4	electron transport chain
+NDUFS4	mitochondrion
+NDUFS4	mitochondrial inner membrane
+NDUFS4	protein binding
+NDUFS4	proton transmembrane transport
+NDUFS4	reactive oxygen species metabolic process
+NDUFS4	NADH dehydrogenase (ubiquinone) activity
+NDUFS4	mitochondrial respiratory chain complex I assembly
+NDUFS4	respiratory chain complex I
+NDUFS4	mitochondrial electron transport, NADH to ubiquinone
+NDUFS4	aerobic respiration
+NDUFS4	proton motive force-driven mitochondrial ATP synthesis
+NDUFS4	brain development
+NDUFS4	response to cAMP
+NDUFS4	regulation of protein phosphorylation
+NKG7	membrane
+NKG7	plasma membrane
+NKG7	protein binding
+NKG7	lysosome
+NKG7	inflammatory response
+NKG7	killing of cells of another organism
+NKG7	positive regulation of inflammatory response
+NKG7	natural killer cell degranulation
+NKG7	defense response to protozoan
+NKG7	natural killer cell mediated cytotoxicity
+NKG7	cytolytic granule
+NKG7	granzyme-mediated programmed cell death signaling pathway
+NKG7	cytolytic granule membrane
+NKG7	natural killer cell mediated cytotoxicity directed against tumor cell target
+NKG7	CD4-positive, alpha-beta T cell activation
+NRGN	protein binding
+NRGN	calmodulin binding
+NRGN	cytosol
+NRGN	nervous system development
+NRGN	signal transduction
+ORM1	extracellular space
+ORM1	regulation of immune system process
+ORM1	extracellular region
+ORM1	protein binding
+ORM1	acute-phase response
+ORM1	extracellular exosome
+ORM1	blood microparticle
+ORM1	positive regulation of interleukin-1 beta production
+ORM1	positive regulation of tumor necrosis factor production
+ORM1	collagen-containing extracellular matrix
+ORM1	inflammatory response
+ORM1	platelet alpha granule lumen
+ORM1	specific granule lumen
+ORM1	tertiary granule lumen
+ORM1	negative regulation of interleukin-6 production
+ORM1	negative regulation of tumor necrosis factor production
+ORM1	positive regulation of interleukin-1 production
+ORM1	
+OSBP2	lipid binding
+OSBP2	membrane
+OSBP2	lipid transport
+OSBP2	protein binding
+OSBP2	cell differentiation
+OSBP2	acrosomal vesicle
+OSBP2	spermatogenesis
+OSBP2	plasma membrane
+OSBP2	cytoplasmic vesicle
+OSBP2	cytosol
+OSBP2	spermatid development
+OSBP2	cholesterol binding
+OSBP2	perinuclear endoplasmic reticulum
+OSBP2	apical dendrite
+OSBP2	
+OXR1	
+OXR1	mitochondrion
+OXR1	nucleus
+OXR1	response to oxidative stress
+OXR1	oxidoreductase activity
+OXR1	adult walking behavior
+OXR1	negative regulation of neuron apoptotic process
+OXR1	neuron apoptotic process
+OXR1	cellular response to hydroperoxide
+OXR1	negative regulation of cellular response to oxidative stress
+OXR1	nucleolus
+OXR1	protein binding
+PAPOLA	
+PAPOLA	nucleus
+PAPOLA	RNA binding
+PAPOLA	nucleotidyltransferase activity
+PAPOLA	poly(A) RNA polymerase activity
+PAPOLA	RNA 3'-end processing
+PAPOLA	mRNA processing
+PAPOLA	cytoplasm
+PAPOLA	nucleoplasm
+PAPOLA	metal ion binding
+PAPOLA	ATP binding
+PAPOLA	transferase activity
+PAPOLA	magnesium ion binding
+PAPOLA	protein binding
+PAPOLA	mRNA 3'-end processing
+PAPOLA	manganese ion binding
+PAPOLA	co-transcriptional mRNA 3'-end processing, cleavage and polyadenylation pathway
+PAPOLA	cytosolic mRNA polyadenylation
+PAPOLA	nucleotide binding
+PCMT1	methyltransferase activity
+PCMT1	methylation
+PCMT1	protein modification process
+PCMT1	cytosol
+PCMT1	protein-L-isoaspartate (D-aspartate) O-methyltransferase activity
+PCMT1	cytoplasm
+PCMT1	protein binding
+PCMT1	cadherin binding
+PCMT1	extracellular exosome
+PCMT1	protein methylation
+PCMT1	extracellular vesicle
+PCMT1	protein repair
+PCMT1	
+PCNP	protein ubiquitination
+PCNP	nucleus
+PCNP	nucleoplasm
+PCNP	protein binding
+PCNP	nuclear body
+PCNP	proteasome-mediated ubiquitin-dependent protein catabolic process
+PCNP	
+PFDN5	protein folding
+PFDN5	unfolded protein binding
+PFDN5	prefoldin complex
+PFDN5	nucleus
+PFDN5	cytoplasm
+PFDN5	cytosol
+PFDN5	protein binding
+PFDN5	intermediate filament cytoskeleton
+PFDN5	protein-containing complex
+PFDN5	transcription corepressor activity
+PFDN5	negative regulation of DNA-templated transcription
+PFDN5	regulation of DNA-templated transcription
+PFDN5	negative regulation of canonical Wnt signaling pathway
+PFDN5	amyloid-beta binding
+PFDN5	chaperone-mediated protein folding
+PFDN5	negative regulation of amyloid fibril formation
+PFDN5	RNA polymerase II core complex assembly
+PFDN5	RNA polymerase I assembly
+PFDN5	RNA polymerase III assembly
+PFDN5	
+PFDN5	retina development in camera-type eye
+PIGY	membrane
+PIGY	protein binding
+PIGY	endoplasmic reticulum
+PIGY	endoplasmic reticulum membrane
+PIGY	GPI anchor biosynthetic process
+PIGY	plasma membrane
+PIGY	glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex
+PIGY	phosphatidylinositol N-acetylglucosaminyltransferase activity
+PJA2	cytoplasm
+PJA2	plasma membrane
+PJA2	Golgi apparatus
+PJA2	transferase activity
+PJA2	cytoskeleton
+PJA2	zinc ion binding
+PJA2	endoplasmic reticulum
+PJA2	endoplasmic reticulum membrane
+PJA2	protein ubiquitination
+PJA2	innate immune response
+PJA2	Golgi membrane
+PJA2	synapse
+PJA2	ubiquitin protein ligase activity
+PJA2	protein binding
+PJA2	centrosome
+PJA2	proteasome-mediated ubiquitin-dependent protein catabolic process
+PJA2	ubiquitin-protein transferase activity
+PJA2	postsynaptic density
+PJA2	inflammatory response
+PJA2	centriolar satellite
+PJA2	ciliary basal body
+PJA2	long-term memory
+PJA2	positive regulation of JNK cascade
+PJA2	protein kinase A catalytic subunit binding
+PJA2	protein kinase A regulatory subunit binding
+PJA2	regulation of protein kinase A signaling
+PJA2	positive regulation of toll-like receptor 2 signaling pathway
+PJA2	regulation of macrophage activation
+PJA2	positive regulation of p38MAPK cascade
+PJA2	glutamatergic synapse
+PJA2	
+POLR2A	DNA binding
+POLR2A	DNA-directed 5'-3' RNA polymerase activity
+POLR2A	DNA-templated transcription
+POLR2A	transcription by RNA polymerase II
+POLR2A	nucleus
+POLR2A	metal ion binding
+POLR2A	nucleotidyltransferase activity
+POLR2A	nuclear lumen
+POLR2A	DNA-directed RNA polymerase complex
+POLR2A	
+POLR2A	nucleoplasm
+POLR2A	mitochondrion
+POLR2A	transcription by RNA polymerase I
+POLR2A	transcription by RNA polymerase III
+POLR2A	core promoter sequence-specific DNA binding
+POLR2A	RNA polymerase I activity
+POLR2A	transcription by RNA polymerase IV
+POLR2A	transcription by RNA polymerase V
+POLR2A	mitochondrial transcription
+POLR2A	plastid transcription
+POLR2A	cellular response to oxygen levels
+POLR2A	euchromatin
+PPP1CC	hydrolase activity
+PPP1CC	chromosome, telomeric region
+PPP1CC	nucleus
+PPP1CC	RNA binding
+PPP1CC	cytoplasm
+PPP1CC	nuclear speck
+PPP1CC	phosphoprotein phosphatase activity
+PPP1CC	metal ion binding
+PPP1CC	cell division
+PPP1CC	mitochondrion
+PPP1CC	cytoskeleton
+PPP1CC	protein binding
+PPP1CC	chromatin remodeling
+PPP1CC	nucleoplasm
+PPP1CC	regulation of transcription by RNA polymerase II
+PPP1CC	myosin phosphatase activity
+PPP1CC	calmodulin-dependent protein phosphatase activity
+PPP1CC	histone H2AXS140 phosphatase activity
+PPP1CC	RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity
+PPP1CC	RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity
+PPP1CC	RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity
+PPP1CC	RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity
+PPP1CC	RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity
+PPP1CC	MAP kinase serine/threonine phosphatase activity
+PPP1CC	chromosome, centromeric region
+PPP1CC	kinetochore
+PPP1CC	chromosome
+PPP1CC	midbody
+PPP1CC	cleavage furrow
+PPP1CC	nucleolus
+PPP1CC	microtubule organizing center
+PPP1CC	rhythmic process
+PPP1CC	protein-containing complex
+PPP1CC	focal adhesion
+PPP1CC	protein serine/threonine phosphatase activity
+PPP1CC	glycogen metabolic process
+PPP1CC	protein kinase binding
+PPP1CC	phosphatase activity
+PPP1CC	circadian regulation of gene expression
+PPP1CC	cytosol
+PPP1CC	protein dephosphorylation
+PPP1CC	regulation of circadian rhythm
+PPP1CC	PTW/PP1 phosphatase complex
+PPP1CC	entrainment of circadian clock by photoperiod
+PPP1CC	MAPK cascade
+PPP1CC	lamin binding
+PPP1CC	protein phosphatase 1 binding
+PPP1CC	protein phosphatase binding
+PPP1CC	protein domain specific binding
+PPP1CC	protein-containing complex binding
+PPP1CC	mitotic sister chromatid segregation
+PPP1CC	blastocyst development
+PPP1CC	spermatogenesis
+PPP1CC	neuron differentiation
+PPP1CC	regulation of nucleocytoplasmic transport
+PPP1CC	positive regulation of glial cell proliferation
+PPP1CC	mitochondrial outer membrane
+PPP1CC	dendritic spine
+PPP1CC	presynapse
+PPP1CC	postsynapse
+PPP1CC	glutamatergic synapse
+PPP1CC	
+PPP1R2	regulation of signal transduction
+PPP1R2	protein phosphatase inhibitor activity
+PPP1R2	protein binding
+PPP1R2	glycogen metabolic process
+PPP1R2	intracellular signal transduction
+PPP1R2	generation of precursor metabolites and energy
+PPP1R2	molecular function inhibitor activity
+PPP1R2	protein serine/threonine phosphatase inhibitor activity
+PPP1R2	
+PPP2R1A	protein binding
+PPP2R1A	
+PPP2R1A	nucleus
+PPP2R1A	cytoplasm
+PPP2R1A	plasma membrane
+PPP2R1A	membrane
+PPP2R1A	cell projection
+PPP2R1A	neuron projection
+PPP2R1A	mitochondrion
+PPP2R1A	intracellular signal transduction
+PPP2R1A	cytosol
+PPP2R1A	chromosome, centromeric region
+PPP2R1A	chromosome
+PPP2R1A	dendrite
+PPP2R1A	microtubule cytoskeleton
+PPP2R1A	chromosome segregation
+PPP2R1A	meiotic sister chromatid cohesion, centromeric
+PPP2R1A	protein phosphatase type 2A complex
+PPP2R1A	extracellular exosome
+PPP2R1A	protein-containing complex assembly
+PPP2R1A	negative regulation of hippo signaling
+PPP2R1A	protein serine/threonine phosphatase activity
+PPP2R1A	female meiotic nuclear division
+PPP2R1A	T cell homeostasis
+PPP2R1A	meiotic spindle elongation
+PPP2R1A	mitotic sister chromatid separation
+PPP2R1A	negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+PPP2R1A	regulation of meiotic cell cycle process involved in oocyte maturation
+PPP2R1A	positive regulation of extrinsic apoptotic signaling pathway in absence of ligand
+PPP2R1A	synapse
+PPP2R1A	glutamatergic synapse
+PPP2R1A	lateral plasma membrane
+PPP2R1A	protein heterodimerization activity
+PPP2R1A	FAR/SIN/STRIPAK complex
+PPP2R1A	regulation of growth
+PPP2R1A	regulation of cell differentiation
+PPP2R1A	neuronal cell body
+PPP2R1A	protein phosphatase regulator activity
+PPP2R1A	spindle assembly
+PPP2R1A	protein antigen binding
+PRF1	
+PRF1	calcium ion binding
+PRF1	pore-forming activity
+PRF1	leukocyte mediated cytotoxicity
+PRF1	extracellular region
+PRF1	plasma membrane
+PRF1	membrane
+PRF1	cytosol
+PRF1	metal ion binding
+PRF1	endosome
+PRF1	protein binding
+PRF1	defense response to virus
+PRF1	lysosome
+PRF1	identical protein binding
+PRF1	killing of cells of another organism
+PRF1	protein homooligomerization
+PRF1	apoptotic process
+PRF1	immunological synapse
+PRF1	cellular defense response
+PRF1	wide pore channel activity
+PRF1	protein secretion
+PRF1	endosome lumen
+PRF1	T cell mediated cytotoxicity
+PRF1	cytolytic granule
+PRF1	granzyme-mediated programmed cell death signaling pathway
+PRF1	cytolytic granule lumen
+PRF1	immunological synapse formation
+PRF1	defense response to tumor cell
+PRF1	immune response to tumor cell
+PRF1	protein import
+PRF1	positive regulation of killing of cells of another organism
+PRF1	protein transmembrane transport
+PRF1	cytoplasmic vesicle
+PROK2	extracellular region
+PROK2	protein binding
+PROK2	negative regulation of apoptotic process
+PROK2	G protein-coupled receptor binding
+PROK2	G protein-coupled receptor signaling pathway
+PROK2	spermatogenesis
+PROK2	rhythmic process
+PROK2	chemotaxis
+PROK2	inflammatory response
+PROK2	angiogenesis
+PROK2	neuropeptide signaling pathway
+PROK2	endothelial cell proliferation
+PROK2	positive regulation of cytosolic calcium ion concentration
+PROK2	sensory perception of pain
+PROK2	positive regulation of smooth muscle contraction
+PROK2	circadian rhythm
+PSMA4	proteolysis involved in protein catabolic process
+PSMA4	proteasome core complex
+PSMA4	nucleus
+PSMA4	proteasome complex
+PSMA4	proteasome core complex, alpha-subunit complex
+PSMA4	ubiquitin-dependent protein catabolic process
+PSMA4	cytoplasm
+PSMA4	cytosol
+PSMA4	nucleoplasm
+PSMA4	protein binding
+PSMA4	intracellular membrane-bounded organelle
+PSMA4	P-body
+PSMA4	proteasome-mediated ubiquitin-dependent protein catabolic process
+PSMA4	extracellular exosome
+PSMA4	
+PSMA6	proteolysis involved in protein catabolic process
+PSMA6	proteasome core complex
+PSMA6	proteasome core complex, alpha-subunit complex
+PSMA6	nucleus
+PSMA6	RNA binding
+PSMA6	cytoplasm
+PSMA6	cytosol
+PSMA6	nucleoplasm
+PSMA6	mitochondrion
+PSMA6	protein binding
+PSMA6	cilium
+PSMA6	ubiquitin-dependent protein catabolic process
+PSMA6	proteasome complex
+PSMA6	P-body
+PSMA6	proteasome-mediated ubiquitin-dependent protein catabolic process
+PSMA6	endopeptidase activity
+PSMA6	extracellular exosome
+PSMA6	positive regulation of NF-kappaB transcription factor activity
+PSMA6	nuclear matrix
+PSMA6	regulation of inflammatory response
+PSMA6	myofibril
+PSMA6	sarcomere
+PSMA6	NF-kappaB binding
+PSMA6	ribosome
+PSMA6	purine ribonucleoside triphosphate binding
+PSMA6	
+PTEN	phosphatase activity
+PTEN	phosphatidylinositol dephosphorylation
+PTEN	dephosphorylation
+PTEN	negative regulation of cell population proliferation
+PTEN	phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity
+PTEN	inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity
+PTEN	phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity
+PTEN	negative regulation of cellular senescence
+PTEN	cytoplasm
+PTEN	nucleus
+PTEN	extracellular region
+PTEN	plasma membrane
+PTEN	phosphoprotein phosphatase activity
+PTEN	phosphatidylinositol phosphate phosphatase activity
+PTEN	lipid metabolic process
+PTEN	regulation of developmental process
+PTEN	cell projection
+PTEN	cytosol
+PTEN	nucleoplasm
+PTEN	protein binding
+PTEN	chromatin remodeling
+PTEN	apoptotic process
+PTEN	apical plasma membrane
+PTEN	lipid binding
+PTEN	regulation of transcription by RNA polymerase II
+PTEN	myosin phosphatase activity
+PTEN	calmodulin-dependent protein phosphatase activity
+PTEN	histone H2AXS140 phosphatase activity
+PTEN	RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity
+PTEN	RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity
+PTEN	RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity
+PTEN	RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity
+PTEN	RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity
+PTEN	MAP kinase serine/threonine phosphatase activity
+PTEN	synapse
+PTEN	nervous system development
+PTEN	PML body
+PTEN	non-membrane spanning protein tyrosine phosphatase activity
+PTEN	protein tyrosine phosphatase activity, metal-dependent
+PTEN	histone H2AXY142 phosphatase activity
+PTEN	protein tyrosine phosphatase activity
+PTEN	dendritic spine
+PTEN	identical protein binding
+PTEN	postsynaptic density
+PTEN	protein serine/threonine phosphatase activity
+PTEN	heart development
+PTEN	enzyme binding
+PTEN	phosphatidylinositol-3-phosphate phosphatase activity
+PTEN	cytoplasmic side of plasma membrane
+PTEN	cell migration
+PTEN	cell motility
+PTEN	positive regulation of cell population proliferation
+PTEN	negative regulation of cell migration
+PTEN	central nervous system development
+PTEN	regulation of protein stability
+PTEN	positive regulation of transcription by RNA polymerase II
+PTEN	negative regulation of cell cycle G1/S phase transition
+PTEN	phosphatidylinositol 3-kinase/protein kinase B signal transduction
+PTEN	phosphatidylinositol biosynthetic process
+PTEN	protein stabilization
+PTEN	positive regulation of intracellular signal transduction
+PTEN	protein dephosphorylation
+PTEN	PDZ domain binding
+PTEN	negative regulation of focal adhesion assembly
+PTEN	negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+PTEN	beta-catenin binding
+PTEN	negative regulation of epithelial to mesenchymal transition
+PTEN	positive regulation of ubiquitin-dependent protein catabolic process
+PTEN	prepulse inhibition
+PTEN	negative regulation of G1/S transition of mitotic cell cycle
+PTEN	negative regulation of osteoblast differentiation
+PTEN	negative regulation of neuron projection development
+PTEN	negative regulation of vascular associated smooth muscle cell proliferation
+PTEN	locomotory behavior
+PTEN	neuron projection
+PTEN	negative regulation of peptidyl-serine phosphorylation
+PTEN	neuron-neuron synaptic transmission
+PTEN	synapse assembly
+PTEN	social behavior
+PTEN	presynaptic membrane assembly
+PTEN	negative regulation of cyclin-dependent protein serine/threonine kinase activity
+PTEN	regulation of neuron projection development
+PTEN	multicellular organismal response to stress
+PTEN	learning or memory
+PTEN	negative regulation of cell size
+PTEN	adult behavior
+PTEN	positive regulation of excitatory postsynaptic potential
+PTEN	anaphase-promoting complex binding
+PTEN	inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity
+PTEN	ubiquitin-specific protease binding
+PTEN	ubiquitin ligase activator activity
+PTEN	spindle assembly involved in female meiosis
+PTEN	dentate gyrus development
+PTEN	central nervous system neuron axonogenesis
+PTEN	central nervous system myelin maintenance
+PTEN	maternal behavior
+PTEN	locomotor rhythm
+PTEN	negative regulation of organ growth
+PTEN	forebrain morphogenesis
+PTEN	negative regulation of axonogenesis
+PTEN	negative regulation of keratinocyte migration
+PTEN	regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+PTEN	rhythmic synaptic transmission
+PTEN	synapse maturation
+PTEN	dendritic spine morphogenesis
+PTEN	cellular response to electrical stimulus
+PTEN	negative regulation of excitatory postsynaptic potential
+PTEN	postsynaptic density assembly
+PTEN	negative regulation of wound healing, spreading of epidermal cells
+PTEN	positive regulation of ubiquitin protein ligase activity
+PTEN	negative regulation of synaptic vesicle clustering
+PTEN	myelin sheath adaxonal region
+PTEN	Schmidt-Lanterman incisure
+PTEN	molecular function inhibitor activity
+PTEN	
+RAB10	GTPase activity
+RAB10	GTP binding
+RAB10	cytoplasm
+RAB10	plasma membrane
+RAB10	Golgi apparatus
+RAB10	membrane
+RAB10	cell projection
+RAB10	endosome
+RAB10	endosome membrane
+RAB10	hydrolase activity
+RAB10	cytoskeleton
+RAB10	protein binding
+RAB10	endoplasmic reticulum
+RAB10	endoplasmic reticulum membrane
+RAB10	protein transport
+RAB10	vesicle-mediated transport
+RAB10	perinuclear region of cytoplasm
+RAB10	lysosome
+RAB10	recycling endosome membrane
+RAB10	Golgi membrane
+RAB10	cilium
+RAB10	focal adhesion
+RAB10	establishment of protein localization to membrane
+RAB10	phagocytic vesicle membrane
+RAB10	trans-Golgi network
+RAB10	exocyst
+RAB10	recycling endosome
+RAB10	axonogenesis
+RAB10	G protein activity
+RAB10	cytosol
+RAB10	extracellular exosome
+RAB10	exocytosis
+RAB10	endosomal transport
+RAB10	cell-cell adhesion
+RAB10	Golgi to plasma membrane transport
+RAB10	cadherin binding involved in cell-cell adhesion
+RAB10	adherens junction
+RAB10	protein localization to basolateral plasma membrane
+RAB10	GDP binding
+RAB10	myosin V binding
+RAB10	secretory granule membrane
+RAB10	cellular response to insulin stimulus
+RAB10	protein localization to plasma membrane
+RAB10	cytoplasmic vesicle membrane
+RAB10	regulated exocytosis
+RAB10	Golgi to plasma membrane protein transport
+RAB10	secretory vesicle
+RAB10	endoplasmic reticulum tubular network organization
+RAB10	antigen processing and presentation
+RAB10	insulin-responsive compartment
+RAB10	exocytic vesicle
+RAB10	polarized epithelial cell differentiation
+RAB10	establishment of neuroblast polarity
+RAB10	establishment of protein localization to endoplasmic reticulum membrane
+RAB10	endoplasmic reticulum tubular network
+RAB10	
+RAB8B	GTPase activity
+RAB8B	GTP binding
+RAB8B	plasma membrane
+RAB8B	endosome
+RAB8B	endosome membrane
+RAB8B	protein transport
+RAB8B	signaling receptor binding
+RAB8B	peroxisomal membrane
+RAB8B	protein binding
+RAB8B	phagocytic vesicle membrane
+RAB8B	phagocytic vesicle
+RAB8B	extracellular exosome
+RAB8B	exocytosis
+RAB8B	endocytic recycling
+RAB8B	GDP binding
+RAB8B	synaptic vesicle
+RAB8B	trans-Golgi network transport vesicle
+RAB8B	antigen processing and presentation
+RAB8B	recycling endosome membrane
+RAB8B	protein import into peroxisome membrane
+RAB8B	TPR domain binding
+RAB8B	positive regulation of cell projection organization
+RAB8B	positive regulation of corticotropin secretion
+RAB8B	cell-substrate junction organization
+RAB8B	perinuclear region of cytoplasm
+RAB8B	cell tip
+RAB8B	presynapse
+RAB8B	membrane
+RAP2A	membrane
+RAP2A	signal transduction
+RAP2A	GTPase activity
+RAP2A	GTP binding
+RAP2A	Rap protein signal transduction
+RAP2A	plasma membrane
+RAP2A	endosome
+RAP2A	hydrolase activity
+RAP2A	protein binding
+RAP2A	endomembrane system
+RAP2A	recycling endosome membrane
+RAP2A	midbody
+RAP2A	cytoplasmic vesicle membrane
+RAP2A	actin cytoskeleton organization
+RAP2A	bounding membrane of organelle
+RAP2A	recycling endosome
+RAP2A	G protein activity
+RAP2A	positive regulation of protein phosphorylation
+RAP2A	protein localization
+RAP2A	cellular response to xenobiotic stimulus
+RAP2A	microvillus assembly
+RAP2A	protein localization to plasma membrane
+RAP2A	GDP binding
+RAP2A	magnesium ion binding
+RAP2A	negative regulation of cell migration
+RAP2A	regulation of dendrite morphogenesis
+RAP2A	regulation of JNK cascade
+RAP2A	regulation of postsynaptic membrane neurotransmitter receptor levels
+RAP2A	positive regulation of protein autophosphorylation
+RAP2A	regulation of synapse assembly
+RAP2A	establishment of protein localization
+RAP2A	Schaffer collateral - CA1 synapse
+RAP2A	cytosol
+RAP2A	synapse
+RAP2A	synaptic membrane
+RB1CC1	autophagosome assembly
+RB1CC1	nucleus
+RB1CC1	cytoplasm
+RB1CC1	nuclear membrane
+RB1CC1	cytosol
+RB1CC1	protein binding
+RB1CC1	autophagy
+RB1CC1	lysosome
+RB1CC1	protein kinase binding
+RB1CC1	phagophore assembly site
+RB1CC1	phagophore assembly site membrane
+RB1CC1	endoplasmic reticulum membrane
+RB1CC1	molecular adaptor activity
+RB1CC1	negative regulation of cell population proliferation
+RB1CC1	positive regulation of autophagy
+RB1CC1	piecemeal microautophagy of the nucleus
+RB1CC1	Atg1/ULK1 kinase complex
+RB1CC1	protein-membrane adaptor activity
+RB1CC1	reticulophagy
+RB1CC1	autophagy of mitochondrion
+RB1CC1	glycophagy
+RB1CC1	pexophagy
+RB1CC1	liver development
+RB1CC1	apoptotic process
+RB1CC1	heart development
+RB1CC1	ribophagy
+RB1CC1	negative regulation of apoptotic process
+RB1CC1	innate immune response
+RB1CC1	positive regulation of cell size
+RB1CC1	positive regulation of JNK cascade
+RB1CC1	defense response to virus
+RB1CC1	extrinsic apoptotic signaling pathway
+RB1CC1	negative regulation of extrinsic apoptotic signaling pathway
+RB1CC1	autophagosome membrane
+RB1CC1	
+RBM12B	RNA binding
+RBM12B	nucleic acid binding
+RBM12B	protein binding
+RBM12B	nucleoplasm
+RBM12B	regulation of RNA splicing
+RBM12B	ribonucleoprotein complex
+RBM12B	
+RBX1	
+RBX1	zinc ion binding
+RBX1	nucleus
+RBX1	cytoplasm
+RBX1	nucleoplasm
+RBX1	transferase activity
+RBX1	protein binding
+RBX1	protein ubiquitination
+RBX1	cytosol
+RBX1	spermatogenesis
+RBX1	DNA repair
+RBX1	ubiquitin protein ligase activity
+RBX1	ubiquitin-dependent protein catabolic process
+RBX1	proteasome-mediated ubiquitin-dependent protein catabolic process
+RBX1	ubiquitin-protein transferase activity
+RBX1	protein polyubiquitination
+RBX1	cullin-RING ubiquitin ligase complex
+RBX1	cullin family protein binding
+RBX1	positive regulation of canonical NF-kappaB signal transduction
+RBX1	protein K48-linked ubiquitination
+RBX1	cellular response to amino acid stimulus
+RBX1	RNA polymerase II-specific DNA-binding transcription factor binding
+RBX1	ubiquitin protein ligase binding
+RBX1	negative regulation of type I interferon production
+RBX1	Cul3-RING ubiquitin ligase complex
+RBX1	SCF ubiquitin ligase complex
+RBX1	protein neddylation
+RBX1	positive regulation of protein catabolic process
+RBX1	cellular response to oxidative stress
+RBX1	T cell activation
+RBX1	Cul5-RING ubiquitin ligase complex
+RBX1	molecular adaptor activity
+RBX1	positive regulation of TORC1 signaling
+RBX1	negative regulation of insulin receptor signaling pathway
+RBX1	protein monoubiquitination
+RBX1	DNA damage response
+RBX1	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+RBX1	negative regulation of response to oxidative stress
+RBX1	MAPK cascade
+RBX1	Cul2-RING ubiquitin ligase complex
+RBX1	post-translational protein modification
+RBX1	cellular response to chemical stress
+RBX1	regulation of cellular response to insulin stimulus
+RBX1	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+RBX1	NEDD8 transferase activity
+RBX1	ubiquitin-ubiquitin ligase activity
+RBX1	NEDD8 ligase activity
+RBX1	protein catabolic process
+RBX1	cellular response to UV
+RBX1	negative regulation of canonical Wnt signaling pathway
+RBX1	ubiquitin-dependent protein catabolic process via the C-end degron rule pathway
+RBX1	negative regulation of mitophagy
+RBX1	positive regulation of protein autoubiquitination
+RBX1	Cul4A-RING E3 ubiquitin ligase complex
+RBX1	Cul4B-RING E3 ubiquitin ligase complex
+RBX1	Cul7-RING ubiquitin ligase complex
+RCOR3	nucleus
+RCOR3	cytosol
+RCOR3	nucleoplasm
+RCOR3	protein binding
+RCOR3	regulation of transcription by RNA polymerase II
+RCOR3	negative regulation of DNA-templated transcription
+RCOR3	transcription corepressor activity
+RCOR3	transcription regulator complex
+RCOR3	histone deacetylase complex
+RCOR3	
+REEP5	membrane
+REEP5	endoplasmic reticulum
+REEP5	protein binding
+REEP5	sarcoplasmic reticulum
+REEP5	sarcoplasmic reticulum membrane
+REEP5	endoplasmic reticulum tubular network
+REEP5	endoplasmic reticulum organization
+REEP5	regulation of intracellular transport
+REEP5	endoplasmic reticulum membrane organization
+REEP5	
+RGS18	cytoplasm
+RGS18	protein binding
+RGS18	GTPase activity
+RGS18	plasma membrane
+RGS18	negative regulation of signal transduction
+RGS18	G protein-coupled receptor signaling pathway
+RGS18	GTPase activator activity
+RGS18	regulation of G protein-coupled receptor signaling pathway
+RGS18	
+RNASE2	nucleic acid binding
+RNASE2	lyase activity
+RNASE2	protein binding
+RNASE2	defense response to virus
+RNASE2	lysosome
+RNASE2	extracellular region
+RNASE2	chemotaxis
+RNASE2	endonuclease activity
+RNASE2	extracellular space
+RNASE2	extracellular exosome
+RNASE2	azurophil granule lumen
+RNASE2	RNA nuclease activity
+RNASE2	RNA catabolic process
+RNASE2	ribonuclease A activity
+RNASE2	innate immune response in mucosa
+RNF10	
+RNF10	metal ion binding
+RNF10	nucleus
+RNF10	cytoplasm
+RNF10	transferase activity
+RNF10	protein binding
+RNF10	zinc ion binding
+RNF10	protein ubiquitination
+RNF10	DNA binding
+RNF10	transcription cis-regulatory region binding
+RNF10	negative regulation of Schwann cell proliferation
+RNF10	positive regulation of myelination
+RNF10	positive regulation of transcription by RNA polymerase II
+RNF10	postsynapse to nucleus signaling pathway
+RNF10	glutamatergic synapse
+RNF10	extrinsic component of postsynaptic density membrane
+RNF10	ubiquitin protein ligase activity
+RNF10	cytosolic ribosome
+RNF10	positive regulation of DNA-templated transcription
+RNF10	ribosome-associated ubiquitin-dependent protein catabolic process
+RNF10	protein autoubiquitination
+RNF10	protein monoubiquitination
+RNF213	metal ion binding
+RNF213	ubiquitin-protein transferase activity
+RNF213	ATP hydrolysis activity
+RNF213	cytoplasm
+RNF213	cytosol
+RNF213	zinc ion binding
+RNF213	nucleolus
+RNF213	immune system process
+RNF213	membrane
+RNF213	lipid metabolic process
+RNF213	ATP binding
+RNF213	transferase activity
+RNF213	hydrolase activity
+RNF213	protein ubiquitination
+RNF213	lipid droplet formation
+RNF213	ubiquitin protein ligase activity
+RNF213	ubiquitin-dependent protein catabolic process
+RNF213	defense response to bacterium
+RNF213	angiogenesis
+RNF213	lipid droplet
+RNF213	protein autoubiquitination
+RNF213	sprouting angiogenesis
+RNF213	protein K63-linked ubiquitination
+RNF213	xenophagy
+RNF213	regulation of lipid metabolic process
+RNF213	lipid ubiquitination
+RNF213	negative regulation of non-canonical Wnt signaling pathway
+RNF213	
+RPL15	structural constituent of ribosome
+RPL15	translation
+RPL15	ribosome
+RPL15	ribonucleoprotein complex
+RPL15	cytosolic ribosome
+RPL15	ribosomal subunit
+RPL15	nucleus
+RPL15	RNA binding
+RPL15	cytoplasm
+RPL15	protein binding
+RPL15	cytoplasmic translation
+RPL15	cytosol
+RPL15	cadherin binding
+RPL15	cytosolic large ribosomal subunit
+RPL15	synapse
+RPL15	
+RPL17	structural constituent of ribosome
+RPL17	translation
+RPL17	ribosome
+RPL17	large ribosomal subunit
+RPL17	nucleus
+RPL17	RNA binding
+RPL17	cytoplasm
+RPL17	ribonucleoprotein complex
+RPL17	cytoplasmic translation
+RPL17	cytosol
+RPL17	cytosolic large ribosomal subunit
+RPL17	protein binding
+RPL17	cytosolic ribosome
+RPL17	
+RPL17	RNA processing
+RPL17	nucleolus
+RPL21	
+RPL21	structural constituent of ribosome
+RPL21	translation
+RPL21	ribosome
+RPL21	RNA binding
+RPL21	cytoplasm
+RPL21	membrane
+RPL21	endoplasmic reticulum
+RPL21	cytosol
+RPL21	ribonucleoprotein complex
+RPL21	cytosolic large ribosomal subunit
+RPL21	protein binding
+RPL21	cytoplasmic translation
+RPL21	cytosolic ribosome
+RPL23	structural constituent of ribosome
+RPL23	translation
+RPL23	ribosome
+RPL23	RNA binding
+RPL23	cytoplasm
+RPL23	membrane
+RPL23	protein binding
+RPL23	ribonucleoprotein complex
+RPL23	focal adhesion
+RPL23	cytosol
+RPL23	extracellular exosome
+RPL23	cytosolic large ribosomal subunit
+RPL23	cytoplasmic translation
+RPL23	protein-containing complex
+RPL23	ribosomal protein import into nucleus
+RPL23	positive regulation of gene expression
+RPL23	negative regulation of transcription by RNA polymerase II
+RPL23	protein-DNA complex disassembly
+RPL23	protein stabilization
+RPL23	nucleoplasm
+RPL23	cellular response to actinomycin D
+RPL23	cytosolic ribosome
+RPL23	large ribosomal subunit rRNA binding
+RPL23	nucleolus
+RPL23	ubiquitin protein ligase binding
+RPL23	transcription coactivator binding
+RPL23	ubiquitin ligase inhibitor activity
+RPL23	negative regulation of ubiquitin protein ligase activity
+RPL23	negative regulation of ubiquitin-dependent protein catabolic process
+RPL23	G1 to G0 transition
+RPL23	regulation of G1 to G0 transition
+RPL23	positive regulation of cell population proliferation
+RPL23	positive regulation of signal transduction by p53 class mediator
+RPL23	synapse
+RPL23	
+RPL23	RNA processing
+RPL26	structural constituent of ribosome
+RPL26	translation
+RPL26	ribosome
+RPL26	RNA binding
+RPL26	large ribosomal subunit
+RPL26	cytoplasm
+RPL26	membrane
+RPL26	ribonucleoprotein complex
+RPL26	rRNA processing
+RPL26	protein binding
+RPL26	cytoplasmic translation
+RPL26	cytosol
+RPL26	extracellular exosome
+RPL26	cytosolic large ribosomal subunit
+RPL26	ribosomal large subunit biogenesis
+RPL26	mRNA 5'-UTR binding
+RPL26	cellular response to gamma radiation
+RPL26	nucleoplasm
+RPL26	DNA damage response, signal transduction by p53 class mediator
+RPL26	cellular response to UV
+RPL26	cytosolic ribosome
+RPL26	nucleolus
+RPL26	positive regulation of translation
+RPL26	positive regulation of DNA damage response, signal transduction by p53 class mediator
+RPL26	positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+RPL26	regulation of translation involved in cellular response to UV
+RPL26	
+RPL27	structural constituent of ribosome
+RPL27	translation
+RPL27	ribosome
+RPL27	nucleus
+RPL27	RNA binding
+RPL27	cytoplasm
+RPL27	membrane
+RPL27	nucleoplasm
+RPL27	protein binding
+RPL27	endoplasmic reticulum
+RPL27	nucleolus
+RPL27	cytosol
+RPL27	rough endoplasmic reticulum
+RPL27	ribonucleoprotein complex
+RPL27	rRNA processing
+RPL27	focal adhesion
+RPL27	extracellular exosome
+RPL27	cytosolic large ribosomal subunit
+RPL27	cytoplasmic translation
+RPL27	cytoplasmic side of rough endoplasmic reticulum membrane
+RPL27	cytosolic ribosome
+RPL27	
+RPL27	synapse
+RPL30	
+RPL30	structural constituent of ribosome
+RPL30	RNA binding
+RPL30	cytosolic large ribosomal subunit
+RPL30	nucleus
+RPL30	cytoplasm
+RPL30	membrane
+RPL30	protein binding
+RPL30	translation
+RPL30	ribonucleoprotein complex
+RPL30	ribosome
+RPL30	focal adhesion
+RPL30	killing of cells of another organism
+RPL30	defense response to Gram-negative bacterium
+RPL30	cytosol
+RPL30	extracellular exosome
+RPL30	antimicrobial humoral immune response mediated by antimicrobial peptide
+RPL30	cytoplasmic translation
+RPL30	cytosolic ribosome
+RPL30	postsynaptic density
+RPL30	synapse
+RPL31	structural constituent of ribosome
+RPL31	translation
+RPL31	ribosome
+RPL31	RNA binding
+RPL31	cytoplasm
+RPL31	membrane
+RPL31	protein binding
+RPL31	ribonucleoprotein complex
+RPL31	focal adhesion
+RPL31	cytoplasmic translation
+RPL31	cytosol
+RPL31	extracellular exosome
+RPL31	cytosolic large ribosomal subunit
+RPL31	cytosolic ribosome
+RPL35A	
+RPL35A	structural constituent of ribosome
+RPL35A	translation
+RPL35A	ribosome
+RPL35A	RNA binding
+RPL35A	cytoplasm
+RPL35A	membrane
+RPL35A	protein binding
+RPL35A	ribonucleoprotein complex
+RPL35A	rRNA processing
+RPL35A	tRNA binding
+RPL35A	cytoplasmic translation
+RPL35A	cytosol
+RPL35A	extracellular exosome
+RPL35A	cytosolic large ribosomal subunit
+RPL35A	ribosomal large subunit biogenesis
+RPL35A	cytosolic ribosome
+RPL35A	synapse
+RPL39	RNA processing
+RPL39	nucleolus
+RPL39	structural constituent of ribosome
+RPL39	translation
+RPL39	ribosome
+RPL39	RNA binding
+RPL39	cytoplasm
+RPL39	ribonucleoprotein complex
+RPL39	extracellular space
+RPL39	defense response to Gram-positive bacterium
+RPL39	cytosol
+RPL39	cytosolic large ribosomal subunit
+RPL39	innate immune response in mucosa
+RPL39	antibacterial humoral response
+RPL39	antimicrobial humoral immune response mediated by antimicrobial peptide
+RPL39	cytoplasmic translation
+RPL39	cytosolic ribosome
+RPL39	
+RPL7	
+RPL7	structural constituent of ribosome
+RPL7	RNA binding
+RPL7	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+RPL7	cytoplasm
+RPL7	ribonucleoprotein complex
+RPL7	ribosome
+RPL7	nucleus
+RPL7	membrane
+RPL7	endoplasmic reticulum
+RPL7	cytosol
+RPL7	protein binding
+RPL7	nucleolus
+RPL7	translation
+RPL7	rRNA processing
+RPL7	focal adhesion
+RPL7	cytosolic large ribosomal subunit
+RPL7	ribosomal large subunit biogenesis
+RPL7	cytoplasmic translation
+RPL7	DNA binding
+RPL7	identical protein binding
+RPL7	cytosolic ribosome
+RPL7	postsynaptic density
+RPL7	mRNA binding
+RPL9	structural constituent of ribosome
+RPL9	translation
+RPL9	ribosome
+RPL9	rRNA binding
+RPL9	nucleus
+RPL9	cytoplasm
+RPL9	membrane
+RPL9	protein binding
+RPL9	ribonucleoprotein complex
+RPL9	focal adhesion
+RPL9	cytoplasmic translation
+RPL9	cytosol
+RPL9	cytosolic large ribosomal subunit
+RPL9	RNA binding
+RPL9	cytosolic ribosome
+RPL9	
+RPS15A	structural constituent of ribosome
+RPS15A	translation
+RPS15A	ribosome
+RPS15A	nucleus
+RPS15A	RNA binding
+RPS15A	cytoplasm
+RPS15A	membrane
+RPS15A	protein binding
+RPS15A	ribonucleoprotein complex
+RPS15A	nucleolus
+RPS15A	positive regulation of cell population proliferation
+RPS15A	cytosolic small ribosomal subunit
+RPS15A	nucleoplasm
+RPS15A	response to virus
+RPS15A	cytosol
+RPS15A	extracellular exosome
+RPS15A	cytoplasmic translation
+RPS15A	ribosomal small subunit biogenesis
+RPS15A	small-subunit processome
+RPS15A	positive regulation of cell cycle
+RPS15A	cytosolic ribosome
+RPS15A	
+RPS17	structural constituent of ribosome
+RPS17	translation
+RPS17	ribosome
+RPS17	nucleus
+RPS17	RNA binding
+RPS17	cytoplasm
+RPS17	membrane
+RPS17	ribonucleoprotein complex
+RPS17	nucleolus
+RPS17	cytosolic ribosome
+RPS17	rRNA processing
+RPS17	translational initiation
+RPS17	focal adhesion
+RPS17	cytosolic small ribosomal subunit
+RPS17	nucleoplasm
+RPS17	cytosol
+RPS17	cytoplasmic translation
+RPS17	ribosomal small subunit biogenesis
+RPS17	small-subunit processome
+RPS17	erythrocyte homeostasis
+RPS17	
+RPS18	structural constituent of ribosome
+RPS18	translation
+RPS18	ribosome
+RPS18	RNA binding
+RPS18	nucleic acid binding
+RPS18	cytosol
+RPS18	ribonucleoprotein complex
+RPS18	collagen trimer
+RPS18	nucleus
+RPS18	cytoplasm
+RPS18	membrane
+RPS18	protein binding
+RPS18	cytosolic ribosome
+RPS18	rRNA binding
+RPS18	focal adhesion
+RPS18	cytosolic small ribosomal subunit
+RPS18	nucleoplasm
+RPS18	small ribosomal subunit
+RPS18	extracellular exosome
+RPS18	cytoplasmic translation
+RPS18	postsynaptic density
+RPS18	synapse
+RPS18	
+RPS27	
+RPS27	structural constituent of ribosome
+RPS27	translation
+RPS27	ribosome
+RPS27	nucleus
+RPS27	RNA binding
+RPS27	cytoplasm
+RPS27	protein binding
+RPS27	zinc ion binding
+RPS27	DNA binding
+RPS27	ribonucleoprotein complex
+RPS27	nucleolus
+RPS27	rRNA processing
+RPS27	cytosolic small ribosomal subunit
+RPS27	nucleoplasm
+RPS27	ribosomal small subunit assembly
+RPS27	cytosol
+RPS27	cytoplasmic translation
+RPS27	ribosomal small subunit biogenesis
+RPS27	small-subunit processome
+RPS27	cytosolic ribosome
+RPS27	postsynaptic density
+RPS3A	structural constituent of ribosome
+RPS3A	translation
+RPS3A	ribosome
+RPS3A	cytoplasm
+RPS3A	endoplasmic reticulum
+RPS3A	cytosol
+RPS3A	nucleolus
+RPS3A	ribonucleoprotein complex
+RPS3A	
+RPS3A	nucleus
+RPS3A	RNA binding
+RPS3A	protein binding
+RPS3A	negative regulation of apoptotic process
+RPS3A	cell differentiation
+RPS3A	translational initiation
+RPS3A	focal adhesion
+RPS3A	cytosolic small ribosomal subunit
+RPS3A	nucleoplasm
+RPS3A	extracellular exosome
+RPS3A	cytoplasmic translation
+RPS3A	ribosomal small subunit biogenesis
+RPS3A	small-subunit processome
+RPS3A	mRNA 5'-UTR binding
+RPS3A	cytosolic ribosome
+RPS4Y1	structural constituent of ribosome
+RPS4Y1	translation
+RPS4Y1	ribosome
+RPS4Y1	RNA binding
+RPS4Y1	nucleus
+RPS4Y1	membrane
+RPS4Y1	ribonucleoprotein complex
+RPS4Y1	rRNA binding
+RPS4Y1	cytosolic small ribosomal subunit
+RPS4Y1	nucleoplasm
+RPS4Y1	cytosol
+RPS4Y1	
+RPS9	structural constituent of ribosome
+RPS9	translation
+RPS9	RNA binding
+RPS9	rRNA binding
+RPS9	small ribosomal subunit
+RPS9	nucleus
+RPS9	cytoplasm
+RPS9	ribonucleoprotein complex
+RPS9	ribosome
+RPS9	nucleolus
+RPS9	membrane
+RPS9	protein binding
+RPS9	focal adhesion
+RPS9	positive regulation of cell population proliferation
+RPS9	cytosolic small ribosomal subunit
+RPS9	nucleoplasm
+RPS9	cytosol
+RPS9	extracellular exosome
+RPS9	translation regulator activity
+RPS9	regulation of translation
+RPS9	cytoplasmic translation
+RPS9	ribosomal small subunit biogenesis
+RPS9	small-subunit processome
+RPS9	cytosolic ribosome
+RPS9	
+RPS9	synapse
+RSBN1	nucleus
+RSBN1	metal ion binding
+RSBN1	chromatin remodeling
+RSBN1	chromatin organization
+RSBN1	dioxygenase activity
+RSBN1	histone H4K20 demethylase activity
+RSBN1	endoplasmic reticulum
+RSBN1	
+S100A12	calcium ion binding
+S100A12	nucleus
+S100A12	cytoplasm
+S100A12	extracellular region
+S100A12	plasma membrane
+S100A12	metal ion binding
+S100A12	cytoskeleton
+S100A12	protein binding
+S100A12	zinc ion binding
+S100A12	innate immune response
+S100A12	cytosol
+S100A12	identical protein binding
+S100A12	inflammatory response
+S100A12	defense response to bacterium
+S100A12	killing of cells of another organism
+S100A12	neutrophil chemotaxis
+S100A12	positive regulation of canonical NF-kappaB signal transduction
+S100A12	positive regulation of inflammatory response
+S100A12	calcium-dependent protein binding
+S100A12	copper ion binding
+S100A12	antimicrobial humoral immune response mediated by antimicrobial peptide
+S100A12	positive regulation of NF-kappaB transcription factor activity
+S100A12	secretory granule lumen
+S100A12	xenobiotic metabolic process
+S100A12	defense response to fungus
+S100A12	endothelial cell migration
+S100A12	positive regulation of MAP kinase activity
+S100A12	monocyte chemotaxis
+S100A12	RAGE receptor binding
+S100A12	mast cell activation
+S100A8	calcium ion binding
+S100A8	nucleus
+S100A8	cytoplasm
+S100A8	extracellular region
+S100A8	plasma membrane
+S100A8	cytosol
+S100A8	metal ion binding
+S100A8	cytoskeleton
+S100A8	protein binding
+S100A8	zinc ion binding
+S100A8	autophagy
+S100A8	apoptotic process
+S100A8	innate immune response
+S100A8	intermediate filament cytoskeleton
+S100A8	extracellular space
+S100A8	chemotaxis
+S100A8	inflammatory response
+S100A8	defense response to bacterium
+S100A8	neutrophil chemotaxis
+S100A8	microtubule binding
+S100A8	extracellular exosome
+S100A8	regulation of cytoskeleton organization
+S100A8	response to lipopolysaccharide
+S100A8	positive regulation of inflammatory response
+S100A8	calcium-dependent protein binding
+S100A8	collagen-containing extracellular matrix
+S100A8	positive regulation of intrinsic apoptotic signaling pathway
+S100A8	positive regulation of NF-kappaB transcription factor activity
+S100A8	secretory granule lumen
+S100A8	arachidonic acid binding
+S100A8	positive regulation of cell growth
+S100A8	defense response to fungus
+S100A8	endothelial cell migration
+S100A8	RAGE receptor binding
+S100A8	Toll-like receptor 4 binding
+S100A8	leukocyte migration involved in inflammatory response
+S100A8	peptidyl-cysteine S-nitrosylation
+S100A8	regulation of toll-like receptor signaling pathway
+S100A8	neutrophil aggregation
+S100A8	calprotectin complex
+S100A8	S100A8 complex
+S100A8	chronic inflammatory response
+S100A8	peptide secretion
+S100A8	positive regulation of peptide secretion
+S100A8	response to zinc ion
+S100A8	astrocyte development
+S100A8	autocrine signaling
+S100A8	response to ethanol
+S100A8	
+S100P	calcium ion binding
+S100P	transition metal ion binding
+S100P	cytoplasm
+S100P	nucleus
+S100P	plasma membrane
+S100P	cell projection
+S100P	nucleoplasm
+S100P	metal ion binding
+S100P	protein binding
+S100P	protein homodimerization activity
+S100P	extracellular region
+S100P	microvillus membrane
+S100P	cadherin binding
+S100P	extracellular exosome
+S100P	calcium-dependent protein binding
+S100P	secretory granule lumen
+S100P	endothelial cell migration
+S100P	magnesium ion binding
+S100P	
+SLC35A1	
+SLC35A1	membrane
+SLC35A1	Golgi membrane
+SLC35A1	pyrimidine nucleotide-sugar transmembrane transporter activity
+SLC35A1	pyrimidine nucleotide-sugar transmembrane transport
+SLC35A1	Golgi apparatus
+SLC35A1	protein binding
+SLC35A1	antiporter activity
+SLC35A1	plasma membrane
+SLC35A1	carbohydrate metabolic process
+SLC35A1	protein modification process
+SLC35A1	CMP-N-acetylneuraminate transmembrane transporter activity
+SLC35A1	CMP-N-acetylneuraminate transmembrane transport
+SLC35A1	N-acetylneuraminate metabolic process
+SLC35A1	CMP-N-acetylneuraminate biosynthetic process
+SLC38A2	plasma membrane
+SLC38A2	protein binding
+SLC38A2	symporter activity
+SLC38A2	amino acid transport
+SLC38A2	sodium ion transport
+SLC38A2	sodium ion transmembrane transport
+SLC38A2	amino acid transmembrane transport
+SLC38A2	cytoplasm
+SLC38A2	positive regulation of gene expression
+SLC38A2	neurotransmitter transport
+SLC38A2	transport across blood-brain barrier
+SLC38A2	amino acid transmembrane transporter activity
+SLC38A2	proline transport
+SLC38A2	amino acid:sodium symporter activity
+SLC38A2	L-serine transmembrane transporter activity
+SLC38A2	alanine transport
+SLC38A2	positive regulation of RNA splicing
+SLC38A2	L-glutamine transmembrane transporter activity
+SLC38A2	glutamine transport
+SLC38A2	L-serine transport
+SLC38A2	L-glutamine import across plasma membrane
+SLC38A2	L-serine import across plasma membrane
+SLC38A2	alanine:sodium symporter activity
+SLC38A2	neutral L-amino acid:sodium symporter activity
+SLC38A2	proline:sodium symporter activity
+SLC38A2	acidic amino acid transmembrane transporter activity
+SLC38A2	neutral L-amino acid transmembrane transporter activity
+SLC38A2	female pregnancy
+SLC38A2	response to muscle activity
+SLC38A2	acidic amino acid transport
+SLC38A2	neutral amino acid transport
+SLC38A2	cerebral cortex development
+SLC38A2	glycine betaine transport
+SLC38A2	cellular response to amino acid starvation
+SLC38A2	amino acid import
+SLC38A2	cellular response to mechanical stimulus
+SLC38A2	regulation of cellular response to stress
+SLC38A2	regulation of glutamate secretion, neurotransmission
+SLC38A2	cellular response to arsenite(3-)
+SLC38A2	L-proline import across plasma membrane
+SLC38A2	brush border
+SLC38A2	axon
+SLC38A2	dendrite
+SLC38A2	sarcolemma
+SLC38A2	neuronal cell body
+SLC38A2	
+SLC38A2	transmembrane transport
+SLPI	extracellular region
+SLPI	peptidase inhibitor activity
+SLPI	Golgi apparatus
+SLPI	serine-type endopeptidase inhibitor activity
+SLPI	protein binding
+SLPI	DNA binding
+SLPI	innate immune response
+SLPI	extracellular space
+SLPI	immune response
+SLPI	defense response to bacterium
+SLPI	mRNA binding
+SLPI	enzyme binding
+SLPI	response to lipopolysaccharide
+SLPI	extracellular exosome
+SLPI	negative regulation of viral genome replication
+SLPI	collagen-containing extracellular matrix
+SLPI	antibacterial humoral response
+SLPI	specific granule lumen
+SLPI	negative regulation of protein binding
+SLPI	endopeptidase inhibitor activity
+SLPI	modulation of process of another organism
+SMOX	
+SMOX	oxidoreductase activity
+SMOX	nucleus
+SMOX	cytoplasm
+SMOX	nuclear membrane
+SMOX	cytosol
+SMOX	nucleoplasm
+SMOX	intracellular membrane-bounded organelle
+SMOX	xenobiotic metabolic process
+SMOX	polyamine biosynthetic process
+SMOX	polyamine oxidase activity
+SMOX	spermine catabolic process
+SMOX	polyamine catabolic process
+SMOX	spermine:oxygen oxidoreductase (spermidine-forming) activity
+SNHG5	
+SNHG5	RNA processing
+SNHG5	nucleolus
+SNRPG	RNA binding
+SNRPG	spliceosomal snRNP assembly
+SNRPG	spliceosomal complex
+SNRPG	nucleus
+SNRPG	mRNA processing
+SNRPG	RNA splicing
+SNRPG	cytoplasm
+SNRPG	nucleoplasm
+SNRPG	protein binding
+SNRPG	cytosol
+SNRPG	mRNA splicing, via spliceosome
+SNRPG	U1 snRNP
+SNRPG	catalytic step 2 spliceosome
+SNRPG	spliceosomal complex assembly
+SNRPG	U4/U6 x U5 tri-snRNP complex
+SNRPG	U4 snRNP
+SNRPG	P granule
+SNRPG	methylosome
+SNRPG	SMN-Sm protein complex
+SNRPG	U2-type precatalytic spliceosome
+SNRPG	U2-type catalytic step 2 spliceosome
+SNRPG	U2-type prespliceosome assembly
+SNRPG	U2-type spliceosomal complex
+SNRPG	U2 snRNP
+SNRPG	U2-type prespliceosome
+SNRPG	U12-type spliceosomal complex
+SNRPG	precatalytic spliceosome
+SNRPG	U5 snRNP
+SNRPG	7-methylguanosine cap hypermethylation
+SNRPG	U7 snRNP
+SNRPG	small nuclear ribonucleoprotein complex
+SNRPG	spliceosomal tri-snRNP complex
+SNRPG	
+SPOCK2	protein binding
+SPOCK2	calcium ion binding
+SPOCK2	extracellular region
+SPOCK2	extracellular matrix
+SPOCK2	extracellular space
+SPOCK2	extracellular matrix binding
+SPOCK2	regulation of cell differentiation
+SPOCK2	synapse assembly
+SPOCK2	collagen binding
+SPOCK2	extracellular matrix organization
+SPOCK2	glycosaminoglycan binding
+SPOCK2	metalloendopeptidase inhibitor activity
+SPOCK2	positive regulation of cell-substrate adhesion
+SPOCK2	negative regulation of endopeptidase activity
+SPOCK2	cellular response to leukemia inhibitory factor
+SPOCK2	positive regulation of cell motility
+SPOCK2	
+SPRYD3	protein binding
+SPRYD3	
+SPTAN1	protein binding
+SPTAN1	calcium ion binding
+SPTAN1	cytoplasm
+SPTAN1	metal ion binding
+SPTAN1	actin binding
+SPTAN1	cytoskeleton
+SPTAN1	microtubule cytoskeleton
+SPTAN1	intracellular membrane-bounded organelle
+SPTAN1	plasma membrane
+SPTAN1	extracellular region
+SPTAN1	cell cortex
+SPTAN1	calmodulin binding
+SPTAN1	actin filament capping
+SPTAN1	cortical actin cytoskeleton
+SPTAN1	cytosol
+SPTAN1	cadherin binding
+SPTAN1	extracellular exosome
+SPTAN1	actin filament binding
+SPTAN1	cell junction
+SPTAN1	membrane
+SPTAN1	actin cytoskeleton organization
+SPTAN1	structural constituent of cytoskeleton
+SPTAN1	specific granule lumen
+SPTAN1	tertiary granule lumen
+SPTAN1	extracellular vesicle
+SPTAN1	cell projection
+SPTAN1	spectrin
+SPTAN1	
+SPTAN1	organelle
+SSR1	endoplasmic reticulum membrane
+SSR1	membrane
+SSR1	endoplasmic reticulum
+SSR1	
+SSR1	protein binding
+SSR1	positive regulation of cell population proliferation
+SSR1	cotranslational protein targeting to membrane
+SUZ12	nucleus
+SUZ12	nucleoplasm
+SUZ12	protein binding
+SUZ12	zinc ion binding
+SUZ12	nuclear body
+SUZ12	nucleolus
+SUZ12	chromatin organization
+SUZ12	enzyme activator activity
+SUZ12	methylated histone binding
+SUZ12	chromatin DNA binding
+SUZ12	negative regulation of cell differentiation
+SUZ12	transcription corepressor binding
+SUZ12	ESC/E(Z) complex
+SUZ12	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+SUZ12	chromatin binding
+SUZ12	RNA binding
+SUZ12	sequence-specific DNA binding
+SUZ12	lncRNA binding
+SUZ12	promoter-specific chromatin binding
+SUZ12	negative regulation of transcription by RNA polymerase II
+SUZ12	cell population proliferation
+SUZ12	positive regulation of cell population proliferation
+SUZ12	oligodendrocyte differentiation
+SUZ12	random inactivation of X chromosome
+SUZ12	facultative heterochromatin formation
+SUZ12	sex chromatin
+SUZ12	chromatin silencing complex
+SUZ12	RSC-type complex
+SUZ12	protein-DNA complex
+SUZ12	ribonucleoprotein complex
+SUZ12	
+TAX1BP1	
+TAX1BP1	protein binding
+TAX1BP1	cytoplasm
+TAX1BP1	mitochondrion
+TAX1BP1	zinc ion binding
+TAX1BP1	autophagy
+TAX1BP1	apoptotic process
+TAX1BP1	autophagosome
+TAX1BP1	innate immune response
+TAX1BP1	cytoplasmic vesicle
+TAX1BP1	phagophore assembly site
+TAX1BP1	cytosol
+TAX1BP1	extracellular exosome
+TAX1BP1	negative regulation of apoptotic process
+TAX1BP1	protein-macromolecule adaptor activity
+TAX1BP1	negative regulation of toll-like receptor 4 signaling pathway
+TAX1BP1	negative regulation of cytoplasmic pattern recognition receptor signaling pathway
+TAX1BP1	kinase binding
+TAX1BP1	negative regulation of NF-kappaB transcription factor activity
+TAX1BP1	protein localization to phagocytic vesicle
+TMCO1	membrane
+TMCO1	calcium channel activity
+TMCO1	endoplasmic reticulum membrane
+TMCO1	endoplasmic reticulum calcium ion homeostasis
+TMCO1	endoplasmic reticulum
+TMCO1	calcium ion transmembrane transport
+TMCO1	Golgi apparatus
+TMCO1	mitochondrion
+TMCO1	mitochondrial membrane
+TMCO1	Golgi membrane
+TMCO1	cytoplasm
+TMCO1	protein binding
+TMCO1	ribosome binding
+TMCO1	ossification
+TMCO1	multi-pass transmembrane protein insertion into ER membrane
+TMCO1	multi-pass translocon complex
+TMCO1	ER overload response
+TMED5	Golgi apparatus
+TMED5	membrane
+TMED5	protein binding
+TMED5	endoplasmic reticulum
+TMED5	endoplasmic reticulum membrane
+TMED5	protein transport
+TMED5	endoplasmic reticulum-Golgi intermediate compartment
+TMED5	endoplasmic reticulum-Golgi intermediate compartment membrane
+TMED5	intracellular protein transport
+TMED5	endoplasmic reticulum to Golgi vesicle-mediated transport
+TMED5	endoplasmic reticulum exit site
+TMED5	Golgi ribbon formation
+TMED5	cis-Golgi network
+TMED5	COPII-coated ER to Golgi transport vesicle
+TMED5	
+TMED7	Golgi apparatus
+TMED7	membrane
+TMED7	ER to Golgi transport vesicle membrane
+TMED7	protein binding
+TMED7	endoplasmic reticulum
+TMED7	endoplasmic reticulum membrane
+TMED7	protein transport
+TMED7	endoplasmic reticulum-Golgi intermediate compartment
+TMED7	cytoplasmic vesicle
+TMED7	endoplasmic reticulum-Golgi intermediate compartment membrane
+TMED7	intracellular protein transport
+TMED7	COPI-coated vesicle membrane
+TMED7	endoplasmic reticulum to Golgi vesicle-mediated transport
+TMED7	COPI vesicle coat
+TMED7	Golgi organization
+TMED7	Golgi membrane
+TMED7	transport vesicle
+TMED7	COPII vesicle coat
+TMED7	COPII-coated ER to Golgi transport vesicle
+TMED7	
+TMEM123	membrane
+TMEM123	protein binding
+TMEM123	signaling receptor activity
+TMEM123	cytoplasmic vesicle
+TMEM123	external side of plasma membrane
+TMEM123	
+TMEM126B	membrane
+TMEM126B	mitochondrion
+TMEM126B	protein binding
+TMEM126B	mitochondrial membrane
+TMEM126B	mitochondrial respiratory chain complex I assembly
+TMEM126B	mitochondrial inner membrane
+TMEM126B	
+TMEM126B	mitochondrion organization
+TMEM126B	response to food
+TMEM158	membrane
+TMEM158	peptide binding
+TMEM71	
+TMEM71	membrane
+TMEM71	mitochondrion
+TMEM71	protein binding
+TNS1	protein binding
+TNS1	phosphoprotein phosphatase activity
+TNS1	metal ion binding
+TNS1	focal adhesion
+TNS1	anchoring junction
+TNS1	RNA binding
+TNS1	cytoplasm
+TNS1	actin binding
+TNS1	cytoskeleton
+TNS1	zinc ion binding
+TNS1	cell surface
+TNS1	fibroblast migration
+TNS1	cell-substrate junction assembly
+TNS1	cell-substrate junction
+TNS1	
+TOMM7	
+TOMM7	mitochondrial outer membrane translocase complex
+TOMM7	protein import into mitochondrial matrix
+TOMM7	mitochondrion
+TOMM7	mitochondrial outer membrane
+TOMM7	protein binding
+TOMM7	protein transport
+TOMM7	positive regulation of protein targeting to mitochondrion
+TOMM7	regulation of protein stability
+TOMM7	positive regulation of parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+TOMM7	protein insertion into mitochondrial outer membrane
+TOMM7	protein transmembrane transporter activity
+TOMM7	protein targeting to mitochondrion
+TOMM7	TOM complex
+TPT1	RNA binding
+TPT1	cytoplasm
+TPT1	cytosol
+TPT1	calcium ion binding
+TPT1	protein binding
+TPT1	negative regulation of apoptotic process
+TPT1	calcium ion transport
+TPT1	spindle pole
+TPT1	regulation of apoptotic process
+TPT1	intracellular calcium ion homeostasis
+TPT1	response to virus
+TPT1	extracellular exosome
+TPT1	extracellular space
+TPT1	nucleus
+TPT1	cytoplasmic microtubule
+TPT1	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+TPT1	multivesicular body
+TPT1	
+TRAM1	membrane
+TRAM1	SRP-dependent cotranslational protein targeting to membrane, translocation
+TRAM1	endoplasmic reticulum
+TRAM1	endoplasmic reticulum membrane
+TRAM1	protein transport
+TRAM1	protein binding
+TRAM1	response to unfolded protein
+TRAM1	signaling receptor activity
+TRAM1	protein insertion into ER membrane
+TRAM1	cotranslational protein targeting to membrane
+TRAM1	
+TXN	protein-disulfide reductase activity
+TXN	nucleus
+TXN	RNA binding
+TXN	cytoplasm
+TXN	extracellular region
+TXN	cytosol
+TXN	nucleoplasm
+TXN	protein binding
+TXN	protein homodimerization activity
+TXN	extracellular exosome
+TXN	negative regulation of transcription by RNA polymerase II
+TXN	cell redox homeostasis
+TXN	negative regulation of protein export from nucleus
+TXN	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction
+TXN	response to radiation
+TXN	positive regulation of DNA binding
+TXN	thioredoxin-disulfide reductase (NADPH) activity
+TXN	protein-disulfide reductase (NAD(P)H) activity
+TXN	cellular detoxification of hydrogen peroxide
+TXN	response to nitric oxide
+TXN	positive regulation of peptidyl-cysteine S-nitrosylation
+TXN	
+UBL3	protein binding
+UBL3	plasma membrane
+UBL3	extracellular exosome
+UCP2	transmembrane transport
+UCP2	glycolytic process
+UCP2	mitochondrion
+UCP2	protein binding
+UCP2	mitochondrial inner membrane
+UCP2	antiporter activity
+UCP2	protein homodimerization activity
+UCP2	chloride transmembrane transport
+UCP2	mitochondrial fission
+UCP2	inorganic anion transport
+UCP2	malate transmembrane transport
+UCP2	glutamine metabolic process
+UCP2	reactive oxygen species metabolic process
+UCP2	macrophage differentiation
+UCP2	positive regulation of cold-induced thermogenesis
+UCP2	cellular response to glucose stimulus
+UCP2	proton transmembrane transport
+UCP2	chloride transmembrane transporter activity
+UCP2	L-aspartate transmembrane transport
+UCP2	proton transmembrane transporter activity
+UCP2	response to cold
+UCP2	negative regulation of calcium import into the mitochondrion
+UCP2	mitochondrial transmembrane transport
+UCP2	oxidative phosphorylation uncoupler activity
+UCP2	adaptive thermogenesis
+UCP2	L-aspartate transmembrane transporter activity
+UCP2	secondary active sulfate transmembrane transporter activity
+UCP2	oxaloacetate transmembrane transporter activity
+UCP2	malate transmembrane transporter activity
+UCP2	phosphate ion uniporter activity
+UCP2	response to hypoxia
+UCP2	C4-dicarboxylate transport
+UCP2	oxaloacetate(2-) transmembrane transport
+UCP2	sulfate transmembrane transport
+UCP2	GDP binding
+UCP2	response to superoxide
+UCP2	mitochondrial transport
+UCP2	response to glucose
+UCP2	long-chain fatty acid transport
+UCP2	cellular response to insulin stimulus
+UCP2	cellular response to hormone stimulus
+UCP2	cellular response to amino acid starvation
+UCP2	negative regulation of apoptotic process
+UCP2	negative regulation of neuron apoptotic process
+UCP2	regulation of mitochondrial membrane potential
+UCP2	negative regulation of insulin secretion involved in cellular response to glucose stimulus
+UCP2	response to fatty acid
+UCP2	cellular response to lead ion
+UCP2	response to dexamethasone
+UCP2	liver regeneration
+UCP2	mitochondrial membrane
+UCP2	membrane
+UCP2	
+UQCRQ	mitochondrial electron transport, ubiquinol to cytochrome c
+UQCRQ	respiratory chain complex III
+UQCRQ	mitochondrion
+UQCRQ	mitochondrial inner membrane
+UQCRQ	cellular respiration
+UQCRQ	
+UQCRQ	subthalamus development
+UQCRQ	pons development
+UQCRQ	cerebellar Purkinje cell layer development
+UQCRQ	hippocampus development
+UQCRQ	thalamus development
+UQCRQ	hypothalamus development
+UQCRQ	pyramidal neuron development
+UQCRQ	midbrain development
+USP15	catalytic activity
+USP15	cysteine-type deubiquitinase activity
+USP15	protein deubiquitination
+USP15	nucleus
+USP15	cytoplasm
+USP15	cytosol
+USP15	nucleoplasm
+USP15	mitochondrion
+USP15	protein binding
+USP15	nuclear body
+USP15	cysteine-type endopeptidase activity
+USP15	cysteine-type peptidase activity
+USP15	proteolysis
+USP15	identical protein binding
+USP15	deubiquitinase activity
+USP15	BMP signaling pathway
+USP15	transforming growth factor beta receptor signaling pathway
+USP15	negative regulation of transforming growth factor beta receptor signaling pathway
+USP15	SMAD binding
+USP15	monoubiquitinated protein deubiquitination
+USP15	transcription elongation-coupled chromatin remodeling
+USP15	transforming growth factor beta receptor binding
+USP15	negative regulation of antifungal innate immune response
+USP15	ubiquitin-modified histone reader activity
+USP15	protein K27-linked deubiquitination
+USP15	K48-linked deubiquitinase activity
+USP15	positive regulation of RIG-I signaling pathway
+USP15	regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator
+USP15	
+VAMP7	membrane
+VAMP7	vesicle-mediated transport
+VAMP7	cytoplasm
+VAMP7	plasma membrane
+VAMP7	Golgi apparatus
+VAMP7	neuron projection
+VAMP7	intracellular membrane-bounded organelle
+VAMP7	endosome
+VAMP7	lamellipodium
+VAMP7	protein binding
+VAMP7	endoplasmic reticulum
+VAMP7	endoplasmic reticulum membrane
+VAMP7	protein transport
+VAMP7	lysosome
+VAMP7	synapse
+VAMP7	lysosomal membrane
+VAMP7	transport vesicle membrane
+VAMP7	late endosome membrane
+VAMP7	exocytosis
+VAMP7	endoplasmic reticulum to Golgi vesicle-mediated transport
+VAMP7	phagocytic vesicle membrane
+VAMP7	trans-Golgi network
+VAMP7	phagocytic vesicle
+VAMP7	extracellular exosome
+VAMP7	SNARE binding
+VAMP7	endosome to lysosome transport
+VAMP7	SNARE complex
+VAMP7	natural killer cell degranulation
+VAMP7	pseudopodium
+VAMP7	SNAP receptor activity
+VAMP7	neutrophil degranulation
+VAMP7	platelet alpha granule
+VAMP7	vesicle fusion
+VAMP7	secretory granule
+VAMP7	clathrin-coated endocytic vesicle membrane
+VAMP7	positive regulation of histamine secretion by mast cell
+VAMP7	eosinophil degranulation
+VAMP7	phagocytosis, engulfment
+VAMP7	secretory granule membrane
+VAMP7	calcium-ion regulated exocytosis
+VAMP7	azurophil granule membrane
+VAMP7	
+VBP1	protein folding
+VBP1	prefoldin complex
+VBP1	nucleus
+VBP1	cytoplasm
+VBP1	cytosol
+VBP1	protein binding
+VBP1	intracellular membrane-bounded organelle
+VBP1	protein-containing complex
+VBP1	tubulin binding
+VBP1	amyloid-beta binding
+VBP1	unfolded protein binding
+VBP1	chaperone-mediated protein folding
+VBP1	negative regulation of amyloid fibril formation
+VBP1	tubulin complex assembly
+VBP1	microtubule-based process
+VBP1	
+VCAN	calcium ion binding
+VCAN	cell adhesion
+VCAN	hyaluronic acid binding
+VCAN	extracellular space
+VCAN	extracellular region
+VCAN	membrane
+VCAN	cell projection
+VCAN	protein binding
+VCAN	carbohydrate binding
+VCAN	photoreceptor outer segment
+VCAN	interphotoreceptor matrix
+VCAN	collagen-containing extracellular matrix
+VCAN	synapse
+VCAN	central nervous system development
+VCAN	endoplasmic reticulum lumen
+VCAN	lysosomal lumen
+VCAN	Golgi lumen
+VCAN	skeletal system development
+VCAN	perineuronal net
+VCAN	osteoblast differentiation
+VCAN	extracellular matrix
+VCAN	extracellular matrix structural constituent conferring compression resistance
+VCAN	glycosaminoglycan binding
+VCAN	protein tyrosine phosphatase activator activity
+VCAN	cell recognition
+VCAN	glial cell migration
+VCAN	
+VPS29	retrograde transport, endosome to Golgi
+VPS29	retromer complex
+VPS29	cytoplasm
+VPS29	membrane
+VPS29	cytosol
+VPS29	metal ion binding
+VPS29	endosome
+VPS29	endosome membrane
+VPS29	protein binding
+VPS29	intracellular membrane-bounded organelle
+VPS29	protein transport
+VPS29	early endosome
+VPS29	late endosome
+VPS29	intracellular protein transport
+VPS29	endocytic recycling
+VPS29	retromer, cargo-selective complex
+VPS29	
+VPS29	RNA processing
+VPS29	nucleolus
+VPS4B	ATP binding
+VPS4B	ATP hydrolysis activity
+VPS4B	nucleus
+VPS4B	cytoplasm
+VPS4B	membrane
+VPS4B	endosome
+VPS4B	endosome membrane
+VPS4B	cell division
+VPS4B	hydrolase activity
+VPS4B	protein binding
+VPS4B	protein transport
+VPS4B	protein homodimerization activity
+VPS4B	centrosome
+VPS4B	mitotic metaphase chromosome alignment
+VPS4B	viral budding via host ESCRT complex
+VPS4B	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+VPS4B	viral budding from plasma membrane
+VPS4B	midbody abscission
+VPS4B	regulation of mitotic spindle assembly
+VPS4B	late endosome membrane
+VPS4B	spindle pole
+VPS4B	identical protein binding
+VPS4B	protein-containing complex binding
+VPS4B	response to lipid
+VPS4B	cytosol
+VPS4B	extracellular exosome
+VPS4B	macroautophagy
+VPS4B	multivesicular body assembly
+VPS4B	membrane fission
+VPS4B	Flemming body
+VPS4B	plasma membrane
+VPS4B	positive regulation of G2/M transition of mitotic cell cycle
+VPS4B	positive regulation of exosomal secretion
+VPS4B	nuclear pore
+VPS4B	regulation of centrosome duplication
+VPS4B	plasma membrane repair
+VPS4B	autophagy
+VPS4B	nucleus organization
+VPS4B	nuclear membrane reassembly
+VPS4B	multivesicular body sorting pathway
+VPS4B	autophagosome maturation
+VPS4B	ESCRT III complex disassembly
+VPS4B	midbody
+VPS4B	negative regulation of exosomal secretion
+VPS4B	endosomal transport
+VPS4B	angiogenesis
+VPS4B	potassium ion transport
+VPS4B	endosome organization
+VPS4B	vacuole organization
+VPS4B	vacuolar transport
+VPS4B	central nervous system development
+VPS4B	cholesterol transport
+VPS4B	endosome to lysosome transport via multivesicular body sorting pathway
+VPS4B	protein depolymerization
+VPS4B	canonical Wnt signaling pathway
+VPS4B	establishment of blood-brain barrier
+VPS4B	late endosomal microautophagy
+VPS4B	late endosome to lysosome transport via multivesicular body sorting pathway
+VPS4B	ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway
+VPS4B	positive regulation of centriole elongation
+VPS4B	ATPase complex
+VPS4B	
+VWCE	cytoplasm
+VWCE	extracellular region
+VWCE	calcium ion binding
+VWCE	protein binding
+VWCE	cellular response to virus
+VWCE	
+WDFY1	
+WDFY1	metal ion binding
+WDFY1	protein binding
+WDFY1	nucleus
+WDFY1	endosome
+WDFY1	Golgi apparatus
+WDFY1	zinc ion binding
+WDFY1	intracellular membrane-bounded organelle
+WDFY1	nucleolus
+WDFY1	cell junction
+WDFY1	cytosol
+WDFY1	early endosome
+WDFY1	positive regulation of toll-like receptor 3 signaling pathway
+WDFY1	1-phosphatidylinositol binding
+WDFY1	positive regulation of toll-like receptor 4 signaling pathway
+XIST	
+XIST	dosage compensation by inactivation of X chromosome
+YPEL5	nucleus
+YPEL5	cytoplasm
+YPEL5	metal ion binding
+YPEL5	cytoskeleton
+YPEL5	protein binding
+YPEL5	midbody
+YPEL5	extracellular region
+YPEL5	centrosome
+YPEL5	spindle pole
+YPEL5	ubiquitin ligase complex
+YPEL5	ficolin-1-rich granule lumen
+YPEL5	tertiary granule lumen
+YPEL5	mitotic spindle pole
+YPEL5	cell population proliferation
+YPEL5	
+ZBED5	
+ZBED5	DNA binding
+ZBED5	zinc ion binding
+ZMPSTE24	membrane
+ZMPSTE24	metal ion binding
+ZMPSTE24	endoplasmic reticulum
+ZMPSTE24	endoplasmic reticulum membrane
+ZMPSTE24	proteolysis
+ZMPSTE24	metallopeptidase activity
+ZMPSTE24	metalloendopeptidase activity
+ZMPSTE24	peptidase activity
+ZMPSTE24	CAAX-box protein processing
+ZMPSTE24	
+ZMPSTE24	nucleus
+ZMPSTE24	endosome
+ZMPSTE24	protein binding
+ZMPSTE24	nuclear inner membrane
+ZMPSTE24	early endosome membrane
+ZMPSTE24	late endosome membrane
+ZMPSTE24	protein maturation
+ZMPSTE24	endopeptidase activity
+ZMPSTE24	extracellular exosome
+ZMPSTE24	protein-containing complex
+ZMPSTE24	regulation of defense response to virus
+ZMPSTE24	double-stranded DNA binding
+ZMPSTE24	metalloexopeptidase activity
+ZMPSTE24	liver development
+ZMPSTE24	hair follicle development
+ZMPSTE24	heart morphogenesis
+ZMPSTE24	ventricular cardiac muscle tissue development
+ZMPSTE24	cardiac ventricle development
+ZMPSTE24	growth plate cartilage development
+ZMPSTE24	DNA repair
+ZMPSTE24	chromatin organization
+ZMPSTE24	regulation of DNA-templated transcription
+ZMPSTE24	lipid metabolic process
+ZMPSTE24	inflammatory cell apoptotic process
+ZMPSTE24	DNA damage response
+ZMPSTE24	nucleus organization
+ZMPSTE24	nuclear envelope organization
+ZMPSTE24	regulation of mitotic cell cycle
+ZMPSTE24	adult walking behavior
+ZMPSTE24	regulation of heart contraction
+ZMPSTE24	determination of adult lifespan
+ZMPSTE24	regulation of cell shape
+ZMPSTE24	epidermis development
+ZMPSTE24	regulation of autophagy
+ZMPSTE24	positive regulation of gene expression
+ZMPSTE24	negative regulation of gene expression
+ZMPSTE24	regulation of glucose metabolic process
+ZMPSTE24	protein processing
+ZMPSTE24	regulation of lipid metabolic process
+ZMPSTE24	bone mineralization
+ZMPSTE24	prenylated protein catabolic process
+ZMPSTE24	regulation of bone mineralization
+ZMPSTE24	regulation of TOR signaling
+ZMPSTE24	regulation of hormone metabolic process
+ZMPSTE24	multicellular organism growth
+ZMPSTE24	regulation of multicellular organism growth
+ZMPSTE24	epigenetic regulation of gene expression
+ZMPSTE24	maintenance of rDNA
+ZMPSTE24	regulation of DNA damage response, signal transduction by p53 class mediator
+ZMPSTE24	positive regulation of gene expression via chromosomal CpG island demethylation
+ZMPSTE24	regulation of fibroblast proliferation
+ZMPSTE24	thymus development
+ZMPSTE24	neuromuscular process
+ZMPSTE24	chromosome organization
+ZMPSTE24	cardiac muscle cell development
+ZMPSTE24	regulation of ventricular cardiac muscle cell membrane repolarization
+ZMPSTE24	kidney morphogenesis
+ZMPSTE24	cardiac conduction
+ZMPSTE24	CAMKK-AMPK signaling cascade
+ZMPSTE24	regulation of stress-activated protein kinase signaling cascade
+ZMPSTE24	cellular response to gamma radiation
+ZMPSTE24	response to DNA damage checkpoint signaling
+ZMPSTE24	regulation of mitotic cell cycle DNA replication
+ZMPSTE24	regulation of blood circulation
+ZMPSTE24	negative regulation of miRNA processing
+ZMPSTE24	calcium ion import into sarcoplasmic reticulum
+ZMPSTE24	regulation of termination of RNA polymerase I transcription
+ZMPSTE24	regulation of cellular senescence
+ZMPSTE24	nuclear envelope
+ZNF281	nucleus
+ZNF281	nucleoplasm
+ZNF281	protein binding
+ZNF281	zinc ion binding
+ZNF281	DNA binding
+ZNF281	cell differentiation
+ZNF281	positive regulation of DNA-templated transcription
+ZNF281	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ZNF281	DNA-binding transcription factor activity, RNA polymerase II-specific
+ZNF281	sequence-specific DNA binding
+ZNF281	transcription cis-regulatory region binding
+ZNF281	DNA-binding transcription factor activity
+ZNF281	negative regulation of DNA-templated transcription
+ZNF281	negative regulation of gene expression
+ZNF281	regulation of DNA-templated transcription
+ZNF281	DNA-binding transcription repressor activity, RNA polymerase II-specific
+ZNF281	sequence-specific double-stranded DNA binding
+ZNF281	negative regulation of transcription by RNA polymerase II
+ZNF281	stem cell differentiation
+ZNF281	embryonic body morphogenesis
+ZNF683	nucleus
+ZNF683	protein binding
+ZNF683	zinc ion binding
+ZNF683	regulation of gene expression
+ZNF683	DNA binding
+ZNF683	innate immune response
+ZNF683	adaptive immune response
+ZNF683	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+ZNF683	regulation of transcription by RNA polymerase II
+ZNF683	DNA-binding transcription factor activity
+ZNF683	promoter-specific chromatin binding
+ZNF683	regulation of natural killer cell differentiation
+ZNF683	regulation of extrathymic T cell differentiation
+ZNF683	regulation of NK T cell differentiation
+ZNF683	regulation of natural killer cell differentiation involved in immune response
+ZNF683	positive regulation of gene expression
+ZNF683	negative regulation of transcription by RNA polymerase II
+ZNF683	negative regulation of type II interferon production
+ZNF683	T cell receptor signaling pathway
+ZNF683	cellular response to ionomycin
+ZNF683	
